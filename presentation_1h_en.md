@@ -40,9 +40,19 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 >
 > ![ccby](images/ccby.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/) with exception of the used material from other copyright holders.
 
-<div style="page-break-after: always;"></div>
 
-## Please be nice!
+>
+>Warum ist RDM wichtig? 
+>Was habe ich davon? 
+>Was ist eigentlich RDM? - abgedeckt
+>
+>DMP: Aufbau, Wo fängt man an, Vorlagen, Dos & Dont's
+
+
+
+
+
+## Workshop rules
 
 Some rules for today:
 
@@ -55,34 +65,27 @@ Some rules for today:
 
 * Please ask if you have not understood something
 
-* Please contribute actively
-
 
 </p>
-
-
 </div>
 
-<div style="float:right; width:40%;">
-  <img src="images/BeNice.jpg" alt="figures hugging">
-    <sub style="text-align: right;">Source: Pixabay</sub>
+
+## Agenda
+
+Let us have a look at our workload for the next hour:
+
+<div style="float:left; width:60%;">
+  <p>
+
+- Why is Research Data Management important?
+- What is Research Data Management?
+- What are my (personal) benefits in Research Data Management?
+- What does a Data management plan (DMP) have to do with it?
+
+</p>
 </div>
 
-<div style="page-break-after: always;"></div>
-
-
-
-## Goals today
-
->
->Warum ist RDM wichtig? 
->Was habe ich davon? 
->Was ist eigentlich RDM? - abgedeckt
->
->DMP: Aufbau, Wo fängt man an, Vorlagen, Dos & Dont's
-
-
-At the end of the workshop you should…
+At the end of the workshop you…
 
 <div style="float:left; width:60%;">
   <p>
@@ -93,44 +96,41 @@ At the end of the workshop you should…
 
 - can describe basics about the data management plan.
 
-
 </p>
-
 </div>
 
-<div style="float:right; width:30%;">
-  <img src="images/Zielscheibe-mit-Pfeil.png" alt="targets">
-  <sub><span style="text-align: right;">Source: Cleo Michelsen</span></sub>
-</div>
 
-<div style="page-break-after: always;"></div>
+# Why is Research Data Management important?
 
-## Agenda
-
-Let us have a look at our workload for today:
-
-<div style="float:left; width:60%;">
-  <p>
-
-- Research data and research data management
-- Research data lifecycle
-- Openess of data
-- Licenses
-- Data management plan (DMP)
-
-</p>
-
-</div>
-
-<div style="float:right; width:30%;">
-  <img src="images/Agenda.jpg" alt="women">
-  <sub><span style="text-align: right;">Source: Pixabay</span></sub>
-</div>
-
-<div style="page-break-after: always;"></div>
+Let us first watch a short video
 
 
-# Research data and research data management
+{{1-2}}
+****************
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc
+" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+****************
+
+
+{{2}}
+****************
+
+- What do you think about the video?
+
+- Has someone experienced similar things already?
+
+- Which parts of the video are problems referring to research data management?
+
+****************
+
+
+
+
+
+# What is Research Data Management?
 
 ### Research Data
 
@@ -352,17 +352,177 @@ Find a workspace at the [Miro-Board](https://miro.com/app/board/uXjVI5UWK7o=/?mo
 
 <div style="page-break-after: always;"></div>
 
-### WHY RDM? Movie time!📽️😀
 
-{{0-1}}
-****************
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc
-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+# What are my (personal) benefits in Research Data Management? (in a nutshell)
 
+
+# What does a Data management plan (DMP) have to do with it?
+
+## Data management plan (DMP)
+
+> What is a data management plan?
+
+{{1-2}}
+**********
+- All information that adequately describes and documents the collection, processing, storage, archiving, and publication of research data in the context of a research project.
+
+- "[...] analysis of the workflow from the generation of the data to their use.“^1^
+
+^[1] J. Ludwig, H. Enke (Hrsg.) Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013.^
+
+***********
+
+<div style="page-break-after: always;"></div>
+
+> Components of a DMP
+
+{{2-3}}
+**********
+- Administrative information
+
+  - Project name, data originator, other contributors, contact, funding program, etc.
+
+- Project abstract
+
+  - Data set descriptions
+  - Data types, formats, scope
+  - Metadata and standards information
+  - Data sharing
+  - Archiving and backup of data
+  - Responsibilities
+  - Legal and ethical aspects (e.g., licences, GDPR, Nagoya protocol, CARE)
+  - Costs
+
+
+Length can vary from a few paragraphs to several pages!
+
+*********
+
+<div style="page-break-after: always;"></div>
+
+### Sketching out a DMP
+
+>__Individual work__
+>![image](images/working.png)<!--
+style="width: 20%; max-width: 800px; float:right"
+title="working"
+onclick="alert('Individual work');"
+-->
+>
+>Download the CAU template for data management plans: [CAU\_DMP\_Template](https://www.fdm.uni-kiel.de/en/services/materials?set_language=en)
+>
+>Have a look at the template and try to sketch out a DMP for your research project.
+>
+> * What information do you already have?
+> * What information is missing to fill the template?
+
+<div style="page-break-after: always;"></div>
+
+## Take-Away Messages
+
+> Practical Take-Away Messages
+
+1. <p style="color:#9a047f">**Document your data**</p>
+
+{{1-2}}
+************
+>- Use documented naming and versioning conventions
+>
+>- document changes
+>
+>- think about metadata necessary to understand your data
+
+*************
+
+2. <p style="color:#9a047f">**Formats**</p>
+
+{{2-3}}
+************
+>  - __Generic and open standard file formats__ last longer than proprietary file formats
+>
+>    - Open Document Format (ODF)
+>
+>    - Comma separated values (CSV)
+>
+>    - Raw text files (TXT, MD)
+>
+>  - __Data container formats__ for __exchange, archival and publication__, e.g., [BagIt](https://tools.ietf.org/html/rfc8493), [Frictionless Data](https://frictionlessdata.io/)
+
+*************
+
+3. <p style="color:#9a047f">**Storage**</p>
+
+{{3-4}}
+**********
+>  - __Central infrastructure with backup__ for storage
+>
+>  - Desktop and laptop for work on current research data only
+>
+>  - Systematic file and folder naming and hierarchy
+>
+>  - Provide _Readme_ files
+>
+>  - Data Management Middleware for handling data and metadata, e.g., [iRODS](https://irods.org/)
+>
+>  - DFG [Guidelines for Safeguarding Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html)  require 10 years of preservation at least!
+
+************
+
+4. <p style="color:#9a047f">**Publication**</p>
+
+{{4-5}}
+************
+>  - Discipline-specific Repositories with specific metadata support
+>
+>    - [re3data: Registry of Research Repositories](https://www.re3data.org/)
+>
+>  - National or international initiatives
+>
+>    - NFDI (work in progress)
+>
+>    - [European Open Science Cloud Services](https://open-science-cloud.ec.europa.eu/)
+>
+>  - Institutional Data Repository: [opendata@uni-kiel](https://opendata.uni-kiel.de/content/index.xml?lang=en)
+>
+>  - Generic Repositories
+>
+>    - [Zenodo](https://zenodo.org/)
+
+************
+
+5. <p style="color:#9a047f">**Licensing**</p>
+
+{{5-6}}
+**************
+>  - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
+>
+>- [Open Data Commons](https://opendatacommons.org/): databases, raw data
+
+**********
+
+
+## Questions
+
+>**Nearly done!**
+>![image](images/FragezeichenTyp.jpg) <!--
+style="width: 10%; max-width: 800px; float:right"
+title="puzzle"
+onclick="alert('Questions?');"
+-->
+>
+>Time for questions!
+
+
+
+## Thank you! :-)
+
+Please take care of your data! 🌼
 ---
 
-****************
+
+
+
 
 
 ### Data Organisation: General notes
@@ -661,167 +821,3 @@ Selection of the license depends on the type of data:
 - If no license is granted, the stricter copyright applies, as far as applicable to data
 
 ***********
-
-
-## Data management plan (DMP)
-
-> What is a data management plan?
-
-{{1-2}}
-**********
-- All information that adequately describes and documents the collection, processing, storage, archiving, and publication of research data in the context of a research project.
-
-- "[...] analysis of the workflow from the generation of the data to their use.“^1^
-
-^[1] J. Ludwig, H. Enke (Hrsg.) Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013.^
-
-***********
-
-<div style="page-break-after: always;"></div>
-
-> Components of a DMP
-
-{{2-3}}
-**********
-- Administrative information
-
-  - Project name, data originator, other contributors, contact, funding program, etc.
-
-- Project abstract
-
-  - Data set descriptions
-  - Data types, formats, scope
-  - Metadata and standards information
-  - Data sharing
-  - Archiving and backup of data
-  - Responsibilities
-  - Legal and ethical aspects (e.g., licences, GDPR, Nagoya protocol, CARE)
-  - Costs
-
-
-Length can vary from a few paragraphs to several pages!
-
-*********
-
-<div style="page-break-after: always;"></div>
-
-### Sketching out a DMP
-
->__Individual work__
->![image](images/working.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Individual work');"
--->
->
->Download the CAU template for data management plans: [CAU\_DMP\_Template](https://www.fdm.uni-kiel.de/en/services/materials?set_language=en)
->
->Have a look at the template and try to sketch out a DMP for your research project.
->
-> * What information do you already have?
-> * What information is missing to fill the template?
-
-<div style="page-break-after: always;"></div>
-
-## Take-Away Messages
-
-> Practical Take-Away Messages
-
-1. <p style="color:#9a047f">**Document your data**</p>
-
-{{1-2}}
-************
->- Use documented naming and versioning conventions
->
->- document changes
->
->- think about metadata necessary to understand your data
-
-*************
-
-2. <p style="color:#9a047f">**Formats**</p>
-
-{{2-3}}
-************
->  - __Generic and open standard file formats__ last longer than proprietary file formats
->
->    - Open Document Format (ODF)
->
->    - Comma separated values (CSV)
->
->    - Raw text files (TXT, MD)
->
->  - __Data container formats__ for __exchange, archival and publication__, e.g., [BagIt](https://tools.ietf.org/html/rfc8493), [Frictionless Data](https://frictionlessdata.io/)
-
-*************
-
-3. <p style="color:#9a047f">**Storage**</p>
-
-{{3-4}}
-**********
->  - __Central infrastructure with backup__ for storage
->
->  - Desktop and laptop for work on current research data only
->
->  - Systematic file and folder naming and hierarchy
->
->  - Provide _Readme_ files
->
->  - Data Management Middleware for handling data and metadata, e.g., [iRODS](https://irods.org/)
->
->  - DFG [Guidelines for Safeguarding Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html)  require 10 years of preservation at least!
-
-************
-
-4. <p style="color:#9a047f">**Publication**</p>
-
-{{4-5}}
-************
->  - Discipline-specific Repositories with specific metadata support
->
->    - [re3data: Registry of Research Repositories](https://www.re3data.org/)
->
->  - National or international initiatives
->
->    - NFDI (work in progress)
->
->    - [European Open Science Cloud Services](https://open-science-cloud.ec.europa.eu/)
->
->  - Institutional Data Repository: [opendata@uni-kiel](https://opendata.uni-kiel.de/content/index.xml?lang=en)
->
->  - Generic Repositories
->
->    - [Zenodo](https://zenodo.org/)
-
-************
-
-5. <p style="color:#9a047f">**Licensing**</p>
-
-{{5-6}}
-**************
->  - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
->
->- [Open Data Commons](https://opendatacommons.org/): databases, raw data
-
-**********
-
-<div style="page-break-after: always;"></div>
-
-## Questions
-
->**Nearly done!**
->![image](images/FragezeichenTyp.jpg) <!--
-style="width: 10%; max-width: 800px; float:right"
-title="puzzle"
-onclick="alert('Questions?');"
--->
->
->Time for questions!
-
-<div style="page-break-after: always;"></div>
-
-
-## Thank you! :-)
-
-Please take care of your data! 🌼
----
