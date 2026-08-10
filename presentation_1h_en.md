@@ -54,6 +54,8 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 
 ## Workshop rules
 
+-----
+
 Some rules for today:
 
 <div style="float:left; width:60%;">
@@ -85,7 +87,8 @@ Let us have a look at our workload for the next hour:
 </p>
 </div>
 
------
+{{2}}
+****************
 
 At the end of the workshop you…
 
@@ -101,14 +104,17 @@ At the end of the workshop you…
 </p>
 </div>
 
+****************
 
 # Why is Research Data Management important?
 
-Let us first watch a short video
+-----
 
 
 {{1-2}}
 ****************
+
+Let us first watch a short video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc
 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -136,12 +142,24 @@ Let us first watch a short video
 {{1}}
 ********************************************************************************
 
+Examples for research data:
 
->Today you are supposed to learn something about research data management.
->
->**What do you think**: What is research data? Let's collect examples.
-
----
+- Audio and video recordings
+- Diaries
+- Geographic information system (GIS) data
+- Laboratory and field notebooks
+- Model, script and research software code
+- Pictures and figures
+- Questionnaires and codebooks
+- Samples and artifacts
+- Sensor data
+- Sequence data
+- Spectra
+- Text and spreadsheet documents
+- Text corpora and annotations
+- Topography data
+- Transcripts
+- ...
 
 ********************************************************************************
 
@@ -163,25 +181,6 @@ What is research data?
 >[Uni Giessen](https://www.uni-giessen.de/ub/en/resteach/researchdata#anchor_what-is-research-data)
 
 **************
-
-### Examples for Research Data
-
-- Audio and video recordings
-- Diaries
-- Geographic information system (GIS) data
-- Laboratory and field notebooks
-- Model, script and research software code
-- Pictures and figures
-- Questionnaires and codebooks
-- Samples and artifacts
-- Sensor data
-- Sequence data
-- Spectra
-- Text and spreadsheet documents
-- Text corpora and annotations
-- Topography data
-- Transcripts
-- ...
 
 
 ## Research Data Management
@@ -296,18 +295,16 @@ What is research data?
 
 ****************
 
-Remember the video!
-
 {{2}}
 ****************
 
->🔍 **F**indable (use persistent identifier (PIDs) like DOI, ORCiC, ROR...)
->
->🔐 **A**ccessible (make Metadata available, describe how to get access)
->
->🔗 **I**nteroperable (use Standards and open formats liek csv, svg, jpg)
->
->♻️ **R**eusable (use licences, have a data documentation)
+🔍 **F**indable (use persistent identifier (PIDs) like DOI, ORCiC, ROR...)
+
+🔐 **A**ccessible (make Metadata available, describe how to get access)
+
+🔗 **I**nteroperable (use Standards and open formats liek csv, svg, jpg)
+
+♻️ **R**eusable (use licences, have a data documentation)
 
 ****************
 
