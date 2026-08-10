@@ -25,7 +25,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 "Disclaimer"
 </script>
 
->Central Research Data Management of Kiel University
+> Central Research Data Management of Kiel University
 >
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
