@@ -85,6 +85,8 @@ Let us have a look at our workload for the next hour:
 </p>
 </div>
 
+-----
+
 At the end of the workshop you…
 
 <div style="float:left; width:60%;">
@@ -127,61 +129,34 @@ Let us first watch a short video
 ****************
 
 
-
-
-
 # What is Research Data Management?
 
-### Research Data
+## Research Data
 
-{{0-1}}
+{{1}}
 ********************************************************************************
 
-><big>**What is reserach data?**</big>
->![image](images\kurzberichte.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="puzzle"
-onclick="alert('Let's work together!');"
--->
+
+>Today you are supposed to learn something about research data management.
 >
->>Today you are supposed to learn something about research data management.
->>
->>**What do you think**: What is research data? Collect as many examples for research data as you can think of.
->>
->>https://answergarden.ch/4936688
+>**What do you think**: What is research data? Let's collect examples.
+
 ---
 
 ********************************************************************************
-
-{{1-2}}
-********************************************************************************
-
-<iframe src="https://answergarden.ch/4936688" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
 
 {{2}}
 **********
 What is research data?
 ---
 
-> _‘In short data means whatever is necessary to validate or reproduce your research findings, or to gain a richer understanding of them.’_
->
->[University of Edinburgh Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/research-data-management)
-
-**********
-
-{{3}}
-***********
 > _‘Any information you use in your research.‘_
 >
 >[University of Camebridge PrePARe Project](https://www.repository.cam.ac.uk/handle/1810/243750)
 
 ************
 
-{{4}}
+{{3}}
 ***************
 > _‘The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific.’_
 >
@@ -189,10 +164,7 @@ What is research data?
 
 **************
 
-<div style="page-break-after: always;"></div>
-
 ### Examples for Research Data
-![Bild](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
 
 - Audio and video recordings
 - Diaries
@@ -209,17 +181,11 @@ What is research data?
 - Text corpora and annotations
 - Topography data
 - Transcripts
+- ...
 
-<div style="page-break-after: always;"></div>
 
-### Research Data Management
+## Research Data Management
 
-{{0-3}}
-****************
-
-What is research data management?
----
-****************
 
 {{1-3}}
 ****************
@@ -247,8 +213,6 @@ What is research data management?
 
 ************
 </center>
-
-<div style="page-break-after: always;"></div>
 
 {{1-2}}
 ************
@@ -290,7 +254,7 @@ What is research data management?
 
 ************
 
-{{4-5}}
+{{4}}
 ************
 **Re-use**:
 
@@ -301,27 +265,6 @@ What is research data management?
 * When can the research data expected to be used by third parties?
 
 ************
-
-{{5}}
-************
-
-![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg) <!-- width="300px" align="right" -->
-
-Individual work:
----
-
-Think about your own PhD project and add keywords to the stations of the research data lifecycle that describe what steps and procedures at each station are relevant to your research data.
-
-Find a workspace at the [Miro-Board](https://miro.com/app/board/uXjVI5UWK7o=/?moveToWidget=3458764600483701115&cot=14)
-
--> Does this research data lifecycle fit to your research project?
-
--> Are there any deviations? If yes, please mark deviations.
-
-************
-
-<div style="page-break-after: always;"></div>
-
 
 
 ## FAIR Data Principles
@@ -349,17 +292,17 @@ Find a workspace at the [Miro-Board](https://miro.com/app/board/uXjVI5UWK7o=/?mo
 >
 >in the ~~long term~~ and ~~independent of individuals~~.
 
+-----
 
-<div style="page-break-after: always;"></div>
+Remember the video!
 
 
 
 # What are my (personal) benefits in Research Data Management? (in a nutshell)
 
 
-# What does a Data management plan (DMP) have to do with it?
 
-## Data management plan (DMP)
+# What does a Data management plan (DMP) have to do with it?
 
 > What is a data management plan?
 
@@ -372,8 +315,6 @@ Find a workspace at the [Miro-Board](https://miro.com/app/board/uXjVI5UWK7o=/?mo
 ^[1] J. Ludwig, H. Enke (Hrsg.) Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013.^
 
 ***********
-
-<div style="page-break-after: always;"></div>
 
 > Components of a DMP
 
@@ -399,25 +340,7 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
-<div style="page-break-after: always;"></div>
 
-### Sketching out a DMP
-
->__Individual work__
->![image](images/working.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Individual work');"
--->
->
->Download the CAU template for data management plans: [CAU\_DMP\_Template](https://www.fdm.uni-kiel.de/en/services/materials?set_language=en)
->
->Have a look at the template and try to sketch out a DMP for your research project.
->
-> * What information do you already have?
-> * What information is missing to fill the template?
-
-<div style="page-break-after: always;"></div>
 
 ## Take-Away Messages
 
