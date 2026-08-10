@@ -79,7 +79,7 @@ Let us have a look at our workload for the next hour:
 
 - Why is Research Data Management important?
 - What is Research Data Management?
-- What are my (personal) benefits in Research Data Management?
+- What are your (personal) benefits in Research Data Management?
 - What does a Data management plan (DMP) have to do with it?
 
 </p>
@@ -280,6 +280,8 @@ What is research data?
 ****************
 
 {{1-2}}
+****************
+
 > An important goal of research data management is to keep data 
 >
 >🔍 **F**indable,
@@ -292,13 +294,24 @@ What is research data?
 >
 >in the ~~long term~~ and ~~independent of individuals~~.
 
------
+****************
 
 Remember the video!
 
+{{2}}
+****************
 
+>🔍 **F**indable (use persistent identifier (PIDs) like DOI, ORCiC, ROR...)
+>
+>🔐 **A**ccessible (make Metadata available, describe how to get access)
+>
+>🔗 **I**nteroperable (use Standards and open formats liek csv, svg, jpg)
+>
+>♻️ **R**eusable (use licences, have a data documentation)
 
-# What are my (personal) benefits in Research Data Management? (in a nutshell)
+****************
+
+# What are your (personal) benefits in Research Data Management? (in a nutshell)
 
 
 
