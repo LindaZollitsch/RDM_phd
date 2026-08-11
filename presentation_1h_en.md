@@ -49,29 +49,6 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 >DMP: Aufbau, Wo fängt man an, Vorlagen, Dos & Dont's
 
 
-
-
-
-## Workshop rules
-
------
-
-Some rules for today:
-
-<div style="float:left; width:60%;">
-  <p>
-
-* Please hear each other out and let each other finish
-
-* Draw attention to yourselves when you want to say something
-
-* Please ask if you have not understood something
-
-
-</p>
-</div>
-
-
 ## Agenda
 
 Let us have a look at our workload for the next hour:
@@ -130,7 +107,7 @@ Let us first watch a short video
 
 - Has someone experienced similar things already?
 
-- Which parts of the video are problems referring to research data management?
+- Which parts of the video do you think refer to research data management?
 
 ****************
 
@@ -201,6 +178,14 @@ What is research data?
 >[University of Edinburgh Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/research-data-management)
 
 ******************
+
+{{3}}
+****************
+
+Research Data Management concerns all aspects of the research process. From simple aspects like naming conventions for data and folder up to complex aspects like specific digital tools that are needed for the research process.
+
+****************
+
 
 ## Research data lifecycle
 
@@ -298,17 +283,25 @@ What is research data?
 {{2}}
 ****************
 
-🔍 **F**indable (use persistent identifier (PIDs) like DOI, ORCiC, ROR...)
+🔍 **F**indable (use persistent identifier (PIDs) like DOI, ORCiD, ROR...)
 
 🔐 **A**ccessible (make Metadata available, describe how to get access)
 
-🔗 **I**nteroperable (use Standards and open formats liek csv, svg, jpg)
+🔗 **I**nteroperable (use Standards and open formats like csv, svg, jpg)
 
 ♻️ **R**eusable (use licences, have a data documentation)
 
 ****************
 
 # What are your (personal) benefits in Research Data Management? (in a nutshell)
+
+- a structured process
+
+- less fear of forgetting something important
+
+- easier access to your reseach process
+
+- compliance with rules of funders
 
 
 
@@ -350,6 +343,304 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
+## What is a DMP? Function & Content
+
+{{0-1}}
+***********
+![](../DMP/images/orientation.png)
+***********
+
+{{1-2}}
+***********
+![](../DMP/images/dmp-content.png)
+
+***********
+
+### Administrative Data
+
+{{1}}
+***********
+
+**Identification data**
+
+* name of the funding organization
+
+* project grant number
+
+* project title / acronym
+
+* principal investigator / researcher
+
+* researcher ID (e.g. ORCID)
+
+* contact details for DMP responsible person
+
+* date of first DMP version
+
+* date of last update
+
+***********
+
+{{2}}
+***********
+**Relevant guidelines / policies**
+
+* funder requirements
+
+* subject-specific recommendations
+
+* institutional guidelines
+
+* project or institute specific policy on handling research data
+
+***********
+
+### Data description
+
+{{1}}
+***********
+
+**Type of research data**
+
+* Which data types & formats are reused or generated?
+
+* What tools or software tools will be used?
+
+* Are existing data suitable for re-use in terms of choice of technology, formats, usage rights, licenses and metadata?
+
+***********
+
+{{2}}
+***********
+
+**Volume**
+
+* Estimate the amount of data to be expected: during data analysis as well as after selection of data for permanent archiving.
+
+* Of what size are the largest individual files?
+
+***********
+
+### Data documentation & quality control
+
+{{1}}
+***********
+* folder and file naming conventions
+
+* versioning
+
+* metadata standards
+
+* controlled vocabularies / ontologies
+
+* supporting documentation
+
+* virtual research environments / databases / ELAB journals
+
+***********
+
+### Storage & Backup
+
+{{1}}
+***********
+* storage and data sharing during the project
+
+* backup strategy
+
+* access control according to protection requirements (e.g. GDPR)
+
+* long-term storage according to GRP
+
+***********
+
+### Legal aspects
+
+{{1}}
+***********
+* Data protection
+
+* Copyright and rights of use
+
+* Licensing law, patent law, etc.
+
+>* **But**: currently **no legal advice** by Central Research Data Management! :-(
+
+***********
+
+{{2}}
+***********
+
+**Some helpful resources:**
+
+* Checklist forschungsdaten.info (EN Version [Link](https://www.forschungsdaten.info/praxis-kompakt/english-pages/legal-issues/))
+
+* UK Data Service Platform: Intro to legal aspects of RDM ([Link](https://www.ukdataservice.ac.uk/manage-data/legal-ethical))
+
+***********
+
+### Data publication
+
+{{1}}
+***********
+* selection of datasets
+
+* name of the (domain-specific) repository
+
+* timeline of data transfer to the archive
+
+* time of publication (embargo, if applicable)
+
+* reason for restrictions
+
+* selection of usage licenses
+
+***********
+
+### Responsibilities & Ressources
+
+{{1-2}}
+***********
+**Who is responsible for RDM?**
+
+* regulation of responsibilities
+
+* access control
+
+* training of project participants
+
+* data curation / quality control
+
+***********
+
+{{2-3}}
+***********
+**Budget: What does RDM cost?**
+
+☞ Budget at least 5% for RDM costs!
+***********
+
+{{3-4}}
+***********
+![](../DMP/images/budgeting.png)
+
+See:. Jasmin Böhmer. (2019, September). UBC RDM Workshop 1 - Data Management Planning (Version V2). Zenodo. http://doi.org/10.5281/zenodo.3469953 
+
+***********
+
+{{4}}
+***********
+![](../DMP/images/ressources.png)
+
+Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdatenmanagement abschätzen? Folien des Service-Teams Forschungsdaten der UH / TIB, Dezember 2018. Illustrations by Jørgen Stamp. CC BY 2.5 Denmark license www.digitalbevaring.dk
+
+***********
+
+## How? Templates & Tools
+
+![](../DMP/images/orientation.png)
+
+### DMP templates
+{{0-1}}
+***********
+<div style="width: 20%; float:right">
+![working](../DMP/images/working.png)
+</div>
+
+> **So, how to start...? Use templates!**
+
+***********
+
+{{1-3}}
+***********
+<div style="width: 20%; float:right">
+![working](../DMP/images/working.png)
+</div>
+
+**Templates**
+
+* [DFG Checklist (for section 2.4 of the proposal)](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_en.pdf)
+
+* [EU Horizon Europe-Template](https://fdm.uni-koeln.de/sites/FDM-UzK/Templates/data-management-plan-template_he_en-2.docx)
+
+* [Science Europe Template](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/)
+
+***********
+
+### DMP tools
+
+{{1}}
+***********
+**Generic DMP-Tools**
+
+<div style="width: 20%; float:right">
+![working](../DMP/images/working.png)
+</div>
+
+[Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
+
+[DMPonline - Digital Curation Centre (DDC), hosted by University of Edinburgh](https://dmponline.dcc.ac.uk/)
+
+[DMP Tool - California Digital Library](https://dmptool.org/)
+
+***********
+
+{{2}}
+***********
+**Subject-specific DMP tools**
+
+* biodiversity and environmental research: [GFBio DMP-Tool](https://www.gfbio.org/plan)
+
+* humanities & social sciences / language data: [CLARIN-D Wizard](https://www.clarin-d.net/de/aufbereiten/datenmanagementplan-entwickeln)
+
+* geosciences: [MOSES DMP tool](https://moses-dmp.gfz-potsdam.de/) - prototype under development
+
+* psychology: [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/)
+
+* educational research: standardized DMPs ([STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen) soon available with RDMO tool or pdf file)
+***********
+
+## Do's & Don'ts
+
+{{0}}
+***********
+![](../DMP/images/orientation.png)
+
+***********
+
+### Common mistakes in DMP writing:
+
+* lack of accuracy
+
+* reuse of text blocks
+
+* terminological inaccuracies
+
+* lack of resource calculation
+
+### DMP checklist
+
+1. Determine the Research Sponsor Requirements
+
+2. Identify the Data to Be Collected
+
+3. Define How the Data Will Be Organized
+
+4. Explain How the Data Will Be Documented
+
+5. Describe How Data Quality Will Be Assured
+
+6. Present a Sound Data Storage and Preservation Strategy
+
+7. Define the Project’s Data Policies
+
+8. Describe How the Data Will Be Disseminated
+
+9. Assign Roles and Responsibilities
+
+10. **Prepare a Realistic Budget**
+
+Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
+https://doi.org/10.1371/journal.pcbi.1004525 
 
 
 ## Take-Away Messages
