@@ -304,7 +304,7 @@ Research Data Management concerns all aspects of the research process. From simp
 
 # What does a Data management plan (DMP) have to do with it?
 
-> What is a data management plan?
+## What is a data management plan?
 
 {{1-2}}
 **********
@@ -316,221 +316,114 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ***********
 
-> Components of a DMP
+## Components of a DMP
+
+>- Administrative data
+
+{{1-2}}
+**********
+
+  - Basic data
+    - Project title
+    - data originator
+    - other contributors
+    - contact
+    - funding organisation
+    - grant number
+  
+  - Relevant guidelines and policies 
+
+**********
+
+>- Data Description
 
 {{2-3}}
 **********
-- Administrative information
 
-  - Project name, data originator, other contributors, contact, funding program, etc.
+  - Type of research data
 
-- Project abstract
+    - data types and formats that are reused or generated
+    - tools or software to be used
 
-  - Data set descriptions
-  - Data types, formats, scope
-  - Metadata and standards information
-  - Data sharing
-  - Archiving and backup of data
-  - Responsibilities
-  - Legal and ethical aspects (e.g., licences, GDPR, Nagoya protocol, CARE)
-  - Costs
 
+  - volume
+    - amount of data to be expected
+    - size of the largest individual file
+
+
+
+>- Data documentation & quality control
+
+{{3-4}}
+**********
+  - folder and file naming conventions
+  - versioning
+  - metadata standards
+  - controlled vocabularies / ontologies
+  - supporting documentation
+  - virtual research environments / databases / ELAB journals
+
+*********
+
+
+
+>- Storage & Backup
+
+{{4-5}}
+**********
+  - storage and data sharing during the project
+  - backup strategy
+  - access control according to protection requirements (e.g. GDPR)
+  - long-term storage according to GRP
+
+*********
+
+
+
+>- Legal aspects
+
+{{5-6}}
+**********
+  - Data protection
+  - Copyright and rights of use
+  - Licensing law, patent law, etc.
+
+*********
+
+>- Data publication
+
+{{6-7}}
+**********
+  - selection of datasets
+  - name of the (domain-specific) repository
+  - timeline of data transfer to the archive
+  - time of publication (embargo, if applicable)
+  - reason for restrictions
+  - selection of usage licenses
+
+*********
+
+>- Responsibilities & Ressources
+
+{{7-8}}
+**********
+  - Who is responsible for RDM?
+    - regulation of responsibilities
+    - access control
+    - training of project participants
+    - data curation
+  - What does RDM cost?
+    Budget at least 5% for RDM costs!
+
+*********
+
+{{8}}
+**********
 
 Length can vary from a few paragraphs to several pages!
 
 *********
 
-## What is a DMP? Function & Content
-
-{{0-1}}
-***********
-![](../DMP/images/orientation.png)
-***********
-
-{{1-2}}
-***********
-![](../DMP/images/dmp-content.png)
-
-***********
-
-### Administrative Data
-
-{{1}}
-***********
-
-**Identification data**
-
-* name of the funding organization
-
-* project grant number
-
-* project title / acronym
-
-* principal investigator / researcher
-
-* researcher ID (e.g. ORCID)
-
-* contact details for DMP responsible person
-
-* date of first DMP version
-
-* date of last update
-
-***********
-
-{{2}}
-***********
-**Relevant guidelines / policies**
-
-* funder requirements
-
-* subject-specific recommendations
-
-* institutional guidelines
-
-* project or institute specific policy on handling research data
-
-***********
-
-### Data description
-
-{{1}}
-***********
-
-**Type of research data**
-
-* Which data types & formats are reused or generated?
-
-* What tools or software tools will be used?
-
-* Are existing data suitable for re-use in terms of choice of technology, formats, usage rights, licenses and metadata?
-
-***********
-
-{{2}}
-***********
-
-**Volume**
-
-* Estimate the amount of data to be expected: during data analysis as well as after selection of data for permanent archiving.
-
-* Of what size are the largest individual files?
-
-***********
-
-### Data documentation & quality control
-
-{{1}}
-***********
-* folder and file naming conventions
-
-* versioning
-
-* metadata standards
-
-* controlled vocabularies / ontologies
-
-* supporting documentation
-
-* virtual research environments / databases / ELAB journals
-
-***********
-
-### Storage & Backup
-
-{{1}}
-***********
-* storage and data sharing during the project
-
-* backup strategy
-
-* access control according to protection requirements (e.g. GDPR)
-
-* long-term storage according to GRP
-
-***********
-
-### Legal aspects
-
-{{1}}
-***********
-* Data protection
-
-* Copyright and rights of use
-
-* Licensing law, patent law, etc.
-
->* **But**: currently **no legal advice** by Central Research Data Management! :-(
-
-***********
-
-{{2}}
-***********
-
-**Some helpful resources:**
-
-* Checklist forschungsdaten.info (EN Version [Link](https://www.forschungsdaten.info/praxis-kompakt/english-pages/legal-issues/))
-
-* UK Data Service Platform: Intro to legal aspects of RDM ([Link](https://www.ukdataservice.ac.uk/manage-data/legal-ethical))
-
-***********
-
-### Data publication
-
-{{1}}
-***********
-* selection of datasets
-
-* name of the (domain-specific) repository
-
-* timeline of data transfer to the archive
-
-* time of publication (embargo, if applicable)
-
-* reason for restrictions
-
-* selection of usage licenses
-
-***********
-
-### Responsibilities & Ressources
-
-{{1-2}}
-***********
-**Who is responsible for RDM?**
-
-* regulation of responsibilities
-
-* access control
-
-* training of project participants
-
-* data curation / quality control
-
-***********
-
-{{2-3}}
-***********
-**Budget: What does RDM cost?**
-
-☞ Budget at least 5% for RDM costs!
-***********
-
-{{3-4}}
-***********
-![](../DMP/images/budgeting.png)
-
-See:. Jasmin Böhmer. (2019, September). UBC RDM Workshop 1 - Data Management Planning (Version V2). Zenodo. http://doi.org/10.5281/zenodo.3469953 
-
-***********
-
-{{4}}
-***********
-![](../DMP/images/ressources.png)
-
-Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdatenmanagement abschätzen? Folien des Service-Teams Forschungsdaten der UH / TIB, Dezember 2018. Illustrations by Jørgen Stamp. CC BY 2.5 Denmark license www.digitalbevaring.dk
-
-***********
 
 ## How? Templates & Tools
 
