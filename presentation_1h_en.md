@@ -436,11 +436,8 @@ Length can vary from a few paragraphs to several pages!
 
 > **So, how to start...? Use templates!**
 
-***********
-
-{{1-3}}
-***********
-
+{{1}}
+**********
 **Templates**
 
 * [DFG Checklist (for section 2.4 of the proposal)](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_en.pdf)
@@ -449,12 +446,11 @@ Length can vary from a few paragraphs to several pages!
 
 * [Science Europe Template](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/)
 
-***********
+**********
 
 ### DMP tools
 
-{{1}}
-***********
+
 **Generic DMP-Tools**
 
 [Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
@@ -463,7 +459,7 @@ Length can vary from a few paragraphs to several pages!
 
 [DMP Tool - California Digital Library](https://dmptool.org/)
 
-***********
+
 
 ### Common mistakes in DMP writing
 
