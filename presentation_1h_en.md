@@ -85,7 +85,7 @@ Let us first watch a short video
 
 ## Research Data
 
-{{1}}
+{{1-2}}
 ********************************************************************************
 
 Examples for research data:
@@ -291,19 +291,20 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ## What is a data management plan?
 
-{{1-2}}
-**********
+
 - All information that adequately describes and documents the collection, processing, storage, archiving, and publication of research data in the context of a research project.
 
 - "[...] analysis of the workflow from the generation of the data to their use.“^1^
 
 ^[1] J. Ludwig, H. Enke (Hrsg.) Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013.^
 
-***********
 
 ## Components of a DMP
 
+{{0}}
+**********
 >- Administrative data
+**********
 
 {{1-2}}
 **********
@@ -320,7 +321,11 @@ Research Data Management concerns all aspects of the research process. From simp
 
 **********
 
+{{0}}
+**********
 >- Data Description
+
+**********
 
 {{2-3}}
 **********
@@ -334,7 +339,12 @@ Research Data Management concerns all aspects of the research process. From simp
     - amount of data to be expected
     - size of the largest individual file
 
+{{0}}
+**********
 >- Data documentation & quality control
+
+**********
+
 
 {{3-4}}
 **********
@@ -347,7 +357,11 @@ Research Data Management concerns all aspects of the research process. From simp
 
 *********
 
+{{0}}
+**********
 >- Storage & Backup
+
+**********
 
 {{4-5}}
 **********
@@ -358,7 +372,11 @@ Research Data Management concerns all aspects of the research process. From simp
 
 *********
 
+{{0}}
+**********
 >- Legal aspects
+
+**********
 
 {{5-6}}
 **********
@@ -368,7 +386,11 @@ Research Data Management concerns all aspects of the research process. From simp
 
 *********
 
+{{0}}
+**********
 >- Data publication
+
+**********
 
 {{6-7}}
 **********
@@ -381,7 +403,11 @@ Research Data Management concerns all aspects of the research process. From simp
 
 *********
 
+{{0}}
+**********
 >- Responsibilities & Ressources
+
+**********
 
 {{7-8}}
 **********
