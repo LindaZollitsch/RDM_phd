@@ -41,35 +41,20 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 
 Let us have a look at our workload for the next hour:
 
-<div style="float:left; width:60%;">
-  <p>
-
 - Why is Research Data Management important?
 - What is Research Data Management?
 - What are your (personal) benefits in Research Data Management?
 - What does a Data management plan (DMP) have to do with it?
 
-</p>
-</div>
-
-{{2}}
-****************
+-----
 
 At the end of the workshop you…
 
-<div style="float:left; width:60%;">
-  <p>
-
 - have a basic idea of the general concept of RDM and know some important related terms.
-
 - can describe what research data and research data management is.
-
 - can describe basics about the data management plan.
 
-</p>
-</div>
-
-****************
+-----
 
 # Why is Research Data Management important?
 
@@ -401,7 +386,7 @@ Research Data Management concerns all aspects of the research process. From simp
 {{7-8}}
 **********
   - Who is responsible for RDM?
-  
+
     - regulation of responsibilities
     - access control
     - training of project participants
