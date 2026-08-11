@@ -345,12 +345,9 @@ Research Data Management concerns all aspects of the research process. From simp
     - data types and formats that are reused or generated
     - tools or software to be used
 
-
   - volume
     - amount of data to be expected
     - size of the largest individual file
-
-
 
 >- Data documentation & quality control
 
@@ -365,8 +362,6 @@ Research Data Management concerns all aspects of the research process. From simp
 
 *********
 
-
-
 >- Storage & Backup
 
 {{4-5}}
@@ -377,8 +372,6 @@ Research Data Management concerns all aspects of the research process. From simp
   - long-term storage according to GRP
 
 *********
-
-
 
 >- Legal aspects
 
@@ -408,10 +401,12 @@ Research Data Management concerns all aspects of the research process. From simp
 {{7-8}}
 **********
   - Who is responsible for RDM?
+  
     - regulation of responsibilities
     - access control
     - training of project participants
     - data curation
+
   - What does RDM cost?
     Budget at least 5% for RDM costs!
 
@@ -424,17 +419,9 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
-
 ## How? Templates & Tools
 
-![](../DMP/images/orientation.png)
-
 ### DMP templates
-{{0-1}}
-***********
-<div style="width: 20%; float:right">
-![working](../DMP/images/working.png)
-</div>
 
 > **So, how to start...? Use templates!**
 
@@ -442,9 +429,6 @@ Length can vary from a few paragraphs to several pages!
 
 {{1-3}}
 ***********
-<div style="width: 20%; float:right">
-![working](../DMP/images/working.png)
-</div>
 
 **Templates**
 
@@ -462,10 +446,6 @@ Length can vary from a few paragraphs to several pages!
 ***********
 **Generic DMP-Tools**
 
-<div style="width: 20%; float:right">
-![working](../DMP/images/working.png)
-</div>
-
 [Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
 
 [DMPonline - Digital Curation Centre (DDC), hosted by University of Edinburgh](https://dmponline.dcc.ac.uk/)
@@ -473,22 +453,6 @@ Length can vary from a few paragraphs to several pages!
 [DMP Tool - California Digital Library](https://dmptool.org/)
 
 ***********
-
-{{2}}
-***********
-**Subject-specific DMP tools**
-
-* biodiversity and environmental research: [GFBio DMP-Tool](https://www.gfbio.org/plan)
-
-* humanities & social sciences / language data: [CLARIN-D Wizard](https://www.clarin-d.net/de/aufbereiten/datenmanagementplan-entwickeln)
-
-* geosciences: [MOSES DMP tool](https://moses-dmp.gfz-potsdam.de/) - prototype under development
-
-* psychology: [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/)
-
-* educational research: standardized DMPs ([STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen) soon available with RDMO tool or pdf file)
-***********
-
 
 ### Common mistakes in DMP writing
 
@@ -526,9 +490,6 @@ Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PL
 https://doi.org/10.1371/journal.pcbi.1004525 
 
 
-
-
-
 ## Questions
 
 >**Nearly done!**
@@ -546,305 +507,3 @@ onclick="alert('Questions?');"
 
 Please take care of your data! 🌼
 ---
-
-
-
-
-
-
-### Data Organisation: General notes
-
-{{0-3}}
-*****************
-
-- **Never touch raw data! Always keep your raw data unchanged in a separate folder**.
-
-********************************************************************************
-
-{{1-3}}
-********************************************************************************
-
-- Try to find ‘speaking’ names for folders and files ➞ no ‘fantasy names’ 🦄, no random character strings
-
-- Develop a standardised scheme and a logical structure
-
-  - for both folder and file names.
-
-  - Folders in hierarchical order with the most important first.
-
-  - Limit yourself to a maximum of three folder levels, ensure a maximum path length of 256 characters.
-
-  - Keep your personal preferences in mind during development, e.g. for ___sorting!___
-
-********************************************************************************
-
-{{2-3}}
-********************************************************************************
-- Follow [***ISO 8601***](https://en.wikipedia.org/wiki/ISO_8601) for dates and times
-
-  - Date and time, e.g. YYYY-MM-DD-hh-mm-ss or YYYYMMDDhhmmss
-
-********************************************************************************
-
-{{3-4}}
-********************************************************************************
-
-- Always avoid spaces and all special characters (including special letters, such as german umlauts).
-
-  - The following characters in particular should **NOT** be used in folder or file names:
-
-    - less than: <
-
-    - greater than: >
-
-    - colon: :
-    
-    - double quotation mark: “
-    
-    - slash: /
-    
-    - backslash: \
-    
-    - vertical bar or pipe: |
-    
-    - question mark: ?
-    
-    - asterisk: \*
-
-  - The only unproblematic special characters in folder or file names are underscore (_) and hyphen/minus (-)
-
-********************************************************************************
-
-{{4-7}}
-********************************************************************************
-
-- Prefix consecutive numbers with a sufficient number of zeros (e.g. 001 for numbering from 1 to 100)
-
-********************************************************************************
-
-{{5-7}}
-********************************************************************************
-
-- Use only one dot per file name -> between the file name and format suffix (e.g. filename.txt)
-
-********************************************************************************
-
-{{6-7}}
-********************************************************************************
-
-- Upper and lower case is considered different by some file systems, but not by others.  
-
-********************************************************************************
-
-{{7}}
-********************************************************************************
-
-- ***Document*** your folder structures as well as the naming conventions and abbreviations used!
-
-  - Readme.md
-
-**********************************************************
-
-<div style="page-break-after: always;"></div>
-
-### Examples
-
-{{0-1}}
-********************************************************************************
-
-**Example for a folder hierarchy**
-
-<center>
-  <img src="images/Abb_OrdnerstrukturArchproject_2022_bp.png" alt="example folder hirarchy">
-    <sub style="text-align: right;">Provided by Oliver Nakoinz</sub>
-</center>
-
-********************************************************************************
-
-{{1-2}}
-****************************************
-
->**Example for a file name following a naming convention**
->
->[Project name]\_[Approach]\_[Location]\_[Person-ID]_[Date].[Format-Suffix]
->
->Rebel-Hunting\_Interview\_DS-1-Orbital-Battle-Station\_Organa\_1976-05-25.mp4
-
-****************************************
-
-{{2}}
-****************************************
-
->**Why [***ISO 8601***](https://en.wikipedia.org/wiki/ISO_8601) for dates and times?**
->
->>- **Kristall\_765\_spektr\_2016-12-03.csv**
->>- **Kristall\_765\_spektr\_16-12-03.csv**
-
-****************************************
-
-<div style="page-break-after: always;"></div>
-
-
-## Data documentation
-
-
-  **A good data documentation should include**
-
-  - Information on the collection of data
-
-      - Methods, units, time periods, locations, technique used, etc.
-
-  - Structure of the data and their mutual relationships
-
-  - Explanation of variables, labels and codes
-
-  - Differences between different data set versions
-
-  - Measures for data cleaning
-
-  - Information on access and terms of use
-
-      - Licensing
-
-  - Ideal world
-
-      - Description of the research undertaking
-
-        - Goals
-
-      - Hypotheses
-
-
-## Back up & long-term storage
-
-{{0}}
-Where do you store your data?
----
-
-<div style="float:right; width:40%;">
-  <img src="images/backup.png" alt="No back up? No mercy!">
-</div>
-
-
-{{1}}
-****************
-> **Recommendations for your back up**
->
->- At least 3 copies of a file
->- On at least 2 different media
->- At least one of which is remote
->- Test data recovery at the beginning and at regular intervals.
-
-****************
-
-{{2}}
-How do your store your (sensitive) data?
----
-
-{{3}}
-****************
-> **Protect your (sensitive) data**:
->
->- Hardware (e.g. separate lockable room).
->- File encryption
->- Password security
->- At least two people should have access to your data
-
-*****************
-
-<div style="page-break-after: always;"></div>
-
-### Back up vs. long-term storage
-
-| Back up                                                                          | Long-term storage             |
-| -------------------------------------------------------------------------------- | ----------------------------- |
-| Automatic backup of all data   | Storage of only selected data |
-| All versions                                                                     | Final version only            |
-|   to prevent data loss <br>(technical, e.g. defective, <br>or human, e.g. accidentally deleted) | Integrity backup <br> (e. g. regular check for modified or damaged data, <br>file system consitency)      |
-|                                                                                  | Long-term storage             |
-|                                                                                  | Searchability                 |
-
-<div style="page-break-after: always;"></div>
-
-
-## Openess of Data
-
-* Open Access
-
-* Open Data
-
-* Open Educational Resources
-
-* Open Source Research Software
-
-* Open Methodology
-
-* Citizen Science
-
-* ...
-
-
-<div style="page-break-after: always;"></div>
-
-### Open Access
-
->"Open access is the term given to access granted to research publications and other materials online free of charge. A research document published under open access conditions may be read, downloaded, saved, linked to, printed and used by anybody at no cost."
->
->Source: [DFG](https://www.dfg.de/en/research_funding/programmes/infrastructure/lis/open_access/what_is_open_access/index.html)
-
-<div style="float:left; width:80%;">
-**Open access** contributions are often represented with the help of an open lock.
-
-- Distribution of research output online, __freely available__ for everyone
-
-  - __no restrictions__ for use und republication
-
-  - In practice: __attribution__ to the original author or creator
-
-- Formerly only open publication of journal articles, papers, etc.
-
-</div>
-
-<div style="float:right; width:10%;">
-![Open Access](images\access.png)
-</div>
-
-### Open Data
-
->"Open data are data that have been made available for free use, re-use and dissemination. They can comprise any kind of data from learning materials to geographical data, statistics, traffic data, academic publications, medical data, radio and tv broadcasts.
->
->In oder to mark data as "open", different choices of license are available. Data with restrictive licences, which limit use by prohibiting derivatives or commercial use, do not strictly count as "open data" even though they can certainly improve the academic exchange of ideas." (https://forschungsdaten.info/praxis-kompakt/english-pages/open-data-open-access-and-re-using-data/)
-
------
-
-- Open Data
-
-  - Publication of data without legal or technical restrictions
-  - for use, re-use and dissemination
-  - __Indispensable__ for data science
-  - Generic __non-proprietary__ formats
-  - different types of data as well as __Metadata__
-
------
-
-## Licenses
-{{0-1}}
-*******************
-- Licenses regulate conditions of subsequent use of published data.
-- Free licenses allow the use, redistribution and modification of copyrighted works
-
-  - are usually available for free use and only need to be linked to
-  - Prerequisite is that you are the copyright holder
-
-
-Selection of the license depends on the type of data:
-
-  - e.g. Creative Commons (CC) licenses for articles, monographs, images, etc.
-
-  - Open-Database-License (ODbL) for DB or CC starting with version 4
-
-  - General Public License (GNU) for software
-
-- If no license is granted, the stricter copyright applies, as far as applicable to data
-
-***********
