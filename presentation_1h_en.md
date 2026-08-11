@@ -8,12 +8,9 @@ narrator: UK English Female
 
 icon:     images\cau-norm-en-lilagrey-rgb.png
 
-logo:     
-
 link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
 
 comment:  Presentation for 1h workshop "Introduction to Research Data Management" for PhDs
-
 
 -->
 
@@ -39,15 +36,6 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 > ____________________________________________
 >
 > ![ccby](images/ccby.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/) with exception of the used material from other copyright holders.
-
-
->
->Warum ist RDM wichtig? 
->Was habe ich davon? 
->Was ist eigentlich RDM? - abgedeckt
->
->DMP: Aufbau, Wo fängt man an, Vorlagen, Dos & Dont's
-
 
 ## Agenda
 
@@ -87,7 +75,6 @@ At the end of the workshop you…
 
 -----
 
-
 {{1-2}}
 ****************
 
@@ -96,9 +83,7 @@ Let us first watch a short video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc
 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 ****************
-
 
 {{2}}
 ****************
@@ -110,7 +95,6 @@ Let us first watch a short video
 - Which parts of the video do you think refer to research data management?
 
 ****************
-
 
 # What is Research Data Management?
 
@@ -159,9 +143,7 @@ What is research data?
 
 **************
 
-
 ## Research Data Management
-
 
 {{1-3}}
 ****************
@@ -185,7 +167,6 @@ What is research data?
 Research Data Management concerns all aspects of the research process. From simple aspects like naming conventions for data and folder up to complex aspects like specific digital tools that are needed for the research process.
 
 ****************
-
 
 ## Research data lifecycle
 
@@ -250,7 +231,6 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ************
 
-
 ## FAIR Data Principles
 
 {{0-1}}
@@ -295,92 +275,31 @@ Research Data Management concerns all aspects of the research process. From simp
 
 # RDM in a nutshell
 
-- Use documented naming and versioning conventions
->
->- document changes
->
->- think about metadata necessary to understand your data
+- Systematic file and folder naming and hierarchy
+
+- document changes
+
+- think about metadata necessary to understand your data
+
+- use Open Document Format (ODF)
+
+- __Generic and open standard file formats__ last longer than proprietary file formats
+
+- Desktop and laptop for work on current research data only
+
+- [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
 
 *************
 
-2. <p style="color:#9a047f">**Formats**</p>
-
-{{2-3}}
-************
->  - __Generic and open standard file formats__ last longer than proprietary file formats
->
->    - Open Document Format (ODF)
->
->    - Comma separated values (CSV)
->
->    - Raw text files (TXT, MD)
->
->  - __Data container formats__ for __exchange, archival and publication__, e.g., [BagIt](https://tools.ietf.org/html/rfc8493), [Frictionless Data](https://frictionlessdata.io/)
-
-*************
-
-3. <p style="color:#9a047f">**Storage**</p>
-
-{{3-4}}
-**********
->  - __Central infrastructure with backup__ for storage
->
->  - Desktop and laptop for work on current research data only
->
->  - Systematic file and folder naming and hierarchy
->
->  - Provide _Readme_ files
->
->  - Data Management Middleware for handling data and metadata, e.g., [iRODS](https://irods.org/)
->
->  - DFG [Guidelines for Safeguarding Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html)  require 10 years of preservation at least!
-
-************
-
-4. <p style="color:#9a047f">**Publication**</p>
-
-{{4-5}}
-************
->  - Discipline-specific Repositories with specific metadata support
->
->    - [re3data: Registry of Research Repositories](https://www.re3data.org/)
->
->  - National or international initiatives
->
->    - NFDI (work in progress)
->
->    - [European Open Science Cloud Services](https://open-science-cloud.ec.europa.eu/)
->
->  - Institutional Data Repository: [opendata@uni-kiel](https://opendata.uni-kiel.de/content/index.xml?lang=en)
->
->  - Generic Repositories
->
->    - [Zenodo](https://zenodo.org/)
-
-************
-
-5. <p style="color:#9a047f">**Licensing**</p>
-
-{{5-6}}
-**************
->  - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
->
->- [Open Data Commons](https://opendatacommons.org/): databases, raw data
-
-**********
-
-
-## What are your (personal) benefits in Research Data Management? (in a nutshell)
+## What are your (personal) benefits in Research Data Management?
 
 - a structured process
-
-- less fear of forgetting something important
 
 - easier access to your reseach process
 
 - compliance with rules of funders
 
-
+- less data loss
 
 
 # What does a Data management plan (DMP) have to do with it?
