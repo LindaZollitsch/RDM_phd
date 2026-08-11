@@ -48,13 +48,16 @@ Let us have a look at our workload for the next hour:
 
 -----
 
+{{1}}
+**********
+
 At the end of the workshop you…
 
 - have a basic idea of the general concept of RDM and know some important related terms.
 - can describe what research data and research data management is.
 - can describe basics about the data management plan.
 
------
+**********
 
 # Why is Research Data Management important?
 
@@ -274,7 +277,7 @@ Research Data Management concerns all aspects of the research process. From simp
 
 - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
 
-*************
+
 
 ## What are your (personal) benefits in Research Data Management?
 
@@ -338,6 +341,8 @@ Research Data Management concerns all aspects of the research process. From simp
   - volume
     - amount of data to be expected
     - size of the largest individual file
+
+**********
 
 {{0}}
 **********
