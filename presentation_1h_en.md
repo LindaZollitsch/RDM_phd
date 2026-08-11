@@ -293,7 +293,84 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ****************
 
-# What are your (personal) benefits in Research Data Management? (in a nutshell)
+# RDM in a nutshell
+
+- Use documented naming and versioning conventions
+>
+>- document changes
+>
+>- think about metadata necessary to understand your data
+
+*************
+
+2. <p style="color:#9a047f">**Formats**</p>
+
+{{2-3}}
+************
+>  - __Generic and open standard file formats__ last longer than proprietary file formats
+>
+>    - Open Document Format (ODF)
+>
+>    - Comma separated values (CSV)
+>
+>    - Raw text files (TXT, MD)
+>
+>  - __Data container formats__ for __exchange, archival and publication__, e.g., [BagIt](https://tools.ietf.org/html/rfc8493), [Frictionless Data](https://frictionlessdata.io/)
+
+*************
+
+3. <p style="color:#9a047f">**Storage**</p>
+
+{{3-4}}
+**********
+>  - __Central infrastructure with backup__ for storage
+>
+>  - Desktop and laptop for work on current research data only
+>
+>  - Systematic file and folder naming and hierarchy
+>
+>  - Provide _Readme_ files
+>
+>  - Data Management Middleware for handling data and metadata, e.g., [iRODS](https://irods.org/)
+>
+>  - DFG [Guidelines for Safeguarding Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html)  require 10 years of preservation at least!
+
+************
+
+4. <p style="color:#9a047f">**Publication**</p>
+
+{{4-5}}
+************
+>  - Discipline-specific Repositories with specific metadata support
+>
+>    - [re3data: Registry of Research Repositories](https://www.re3data.org/)
+>
+>  - National or international initiatives
+>
+>    - NFDI (work in progress)
+>
+>    - [European Open Science Cloud Services](https://open-science-cloud.ec.europa.eu/)
+>
+>  - Institutional Data Repository: [opendata@uni-kiel](https://opendata.uni-kiel.de/content/index.xml?lang=en)
+>
+>  - Generic Repositories
+>
+>    - [Zenodo](https://zenodo.org/)
+
+************
+
+5. <p style="color:#9a047f">**Licensing**</p>
+
+{{5-6}}
+**************
+>  - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
+>
+>- [Open Data Commons](https://opendatacommons.org/): databases, raw data
+
+**********
+
+
+## What are your (personal) benefits in Research Data Management? (in a nutshell)
 
 - a structured process
 
@@ -302,6 +379,7 @@ Research Data Management concerns all aspects of the research process. From simp
 - easier access to your reseach process
 
 - compliance with rules of funders
+
 
 
 
@@ -599,19 +677,12 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 * educational research: standardized DMPs ([STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen) soon available with RDMO tool or pdf file)
 ***********
 
-## Do's & Don'ts
 
-{{0}}
-***********
-![](../DMP/images/orientation.png)
-
-***********
-
-### Common mistakes in DMP writing:
+### Common mistakes in DMP writing
 
 * lack of accuracy
 
-* reuse of text blocks
+* reuse of (generic) text blocks
 
 * terminological inaccuracies
 
@@ -619,7 +690,7 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 ### DMP checklist
 
-1. Determine the Research Sponsor Requirements
+1. Determine the Research Funder Requirements
 
 2. Identify the Data to Be Collected
 
@@ -637,93 +708,13 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 9. Assign Roles and Responsibilities
 
-10. **Prepare a Realistic Budget**
+10. Prepare a Realistic Budget
 
 Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
 https://doi.org/10.1371/journal.pcbi.1004525 
 
 
-## Take-Away Messages
 
-> Practical Take-Away Messages
-
-1. <p style="color:#9a047f">**Document your data**</p>
-
-{{1-2}}
-************
->- Use documented naming and versioning conventions
->
->- document changes
->
->- think about metadata necessary to understand your data
-
-*************
-
-2. <p style="color:#9a047f">**Formats**</p>
-
-{{2-3}}
-************
->  - __Generic and open standard file formats__ last longer than proprietary file formats
->
->    - Open Document Format (ODF)
->
->    - Comma separated values (CSV)
->
->    - Raw text files (TXT, MD)
->
->  - __Data container formats__ for __exchange, archival and publication__, e.g., [BagIt](https://tools.ietf.org/html/rfc8493), [Frictionless Data](https://frictionlessdata.io/)
-
-*************
-
-3. <p style="color:#9a047f">**Storage**</p>
-
-{{3-4}}
-**********
->  - __Central infrastructure with backup__ for storage
->
->  - Desktop and laptop for work on current research data only
->
->  - Systematic file and folder naming and hierarchy
->
->  - Provide _Readme_ files
->
->  - Data Management Middleware for handling data and metadata, e.g., [iRODS](https://irods.org/)
->
->  - DFG [Guidelines for Safeguarding Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html)  require 10 years of preservation at least!
-
-************
-
-4. <p style="color:#9a047f">**Publication**</p>
-
-{{4-5}}
-************
->  - Discipline-specific Repositories with specific metadata support
->
->    - [re3data: Registry of Research Repositories](https://www.re3data.org/)
->
->  - National or international initiatives
->
->    - NFDI (work in progress)
->
->    - [European Open Science Cloud Services](https://open-science-cloud.ec.europa.eu/)
->
->  - Institutional Data Repository: [opendata@uni-kiel](https://opendata.uni-kiel.de/content/index.xml?lang=en)
->
->  - Generic Repositories
->
->    - [Zenodo](https://zenodo.org/)
-
-************
-
-5. <p style="color:#9a047f">**Licensing**</p>
-
-{{5-6}}
-**************
->  - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
->
->- [Open Data Commons](https://opendatacommons.org/): databases, raw data
-
-**********
 
 
 ## Questions
