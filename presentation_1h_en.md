@@ -41,11 +41,13 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 
 Let us have a look at our workload for the next hour:
 
-- Why is Research Data Management important?
-- What is Research Data Management?
-- What are your (personal) benefits in Research Data Management?
-- What does a Data management plan (DMP) have to do with it?
+* Why is Research Data Management important?
 
+* What is Research Data Management?
+
+* Benefits of Research Data Management
+
+* What is a Data Management Plan?
 -----
 
 {{1}}
@@ -261,7 +263,19 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ****************
 
-# RDM in a nutshell
+
+# Benefits of Research Data Management?
+
+- a structured process
+
+- easier access to your reseach process
+
+- compliance with rules of funders
+
+- less data loss
+
+
+## RDM in a nutshell
 
 - Systematic file and folder naming and hierarchy
 
@@ -277,17 +291,6 @@ Research Data Management concerns all aspects of the research process. From simp
 
 - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
 
-
-
-## What are your (personal) benefits in Research Data Management?
-
-- a structured process
-
-- easier access to your reseach process
-
-- compliance with rules of funders
-
-- less data loss
 
 
 # What does a Data management plan (DMP) have to do with it?
