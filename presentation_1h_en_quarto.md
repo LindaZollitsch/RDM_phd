@@ -21,14 +21,22 @@ format:
 
 * Why is Research Data Management important?
 
-* What is Research Data Management?
+* Research Data Management
+
+* Data Management Plan
 
 * Benefits of Research Data Management
 
-* What is a Data Management Plan
+
 
 
 # Goals
+
+
+<div style="float:right; width:30%;">
+ <img src="./media/2022-09-27_Zielscheibe.png" alt="targets">
+  <small><span style="text-align: right;"></span></small>
+</div>
 
 At the end of the workshop you…
 
@@ -167,91 +175,81 @@ Research Data Management concerns all aspects of the research process. From simp
 * Are there embargo periods?
 * When can the research data expected to be used by third parties?
 
+
+
 ## FAIR Data Principles
 
+> An important goal of research data management is to keep data <span style="color:#F363F8">FAIR</span> in the <span style="color:#F363F8">long term</span> and <span style="color:#F363F8">independent of individuals</span>.
+
 
 ****************
 
-> An important goal of research data management is to keep data 
->
->🔍 **F**indable,
->
->🔐 **A**ccessible,
->
->🔗 **I**nteroperable and
->
->♻️ **R**eusable
->
->in the ~~long term~~ and ~~independent of individuals~~.
-
-****************
-
-🔍 **F**indable (use persistent identifier (PIDs) like DOI, ORCiD, ROR...)
-
-🔐 **A**ccessible (make Metadata available, describe how to get access)
-
-🔗 **I**nteroperable (use Standards and open formats like csv, svg, jpg)
-
-♻️ **R**eusable (use licences, have a data documentation)
-
-****************
+<span style="color:#F363F8">FAIR Data Principles</span>
 
 
-# Benefits of Research Data Management?
+🔍 <span style="color:#F363F8">F</span>indable (use persistent identifier (PIDs) like DOI, ORCiD, ROR...)
 
-- a structured process
+🔐 <span style="color:#F363F8">A</span>ccessible (make Metadata available, describe how to get access)
 
-- easier access to your reseach process
+🔗 <span style="color:#F363F8">I</span>nteroperable (use Standards and open formats like csv, svg, jpg)
 
-- compliance with rules of funders
-
-- less data loss
+♻️ <span style="color:#F363F8">R</span>eusable (use licences, have a data documentation)
 
 
-## RDM in a nutshell
+## RDM checklist
 
-- Systematic file and folder naming and hierarchy
+1. Consider applicable policies
 
-- document changes
+2. Account for ethical regulations and legislation
 
-- think about metadata necessary to understand your data
+3. Have a sound data storage and security concept
 
-- use Open Document Format (ODF)
+4. Keep your working directories clean
 
-- __Generic and open standard file formats__ last longer than proprietary file formats
+5. Have a sound data collection strategy
 
-- Desktop and laptop for work on current research data only
+6. Work on comprehensive documentation
 
-- [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
+7. Develop a data management plan
+
+8. Make use of standard and open file formats
+
+9. Share your research data
+
+10. Continuous self-monitoring
+
+<small>Hassenstein, M. J., & Jung, K. (2025). Ten simple rules for effective research data management. PLoS computational biology, 21(12), e1013779. https://doi.org/10.1371/journal.pcbi.1013779</small>
 
 
-# What is a Data Management Plan?
+
+# Data Management Plan
+
+"The Data Management Plan is a living summary document that provides assistance with organising and planning all the phases in the lifecycle of data. It explains, for each dataset, how project data will be managed, from creation or collection to sharing and archiving."
+
+<small>https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction-data-management-plans</small>
 
 
-- All information that adequately describes and documents the collection, processing, storage, archiving, and publication of research data in the context of a research project.
+"A Data Management Plan (DMP or DMSP) details how data will be collected, processed, analyzed, described, preserved, and shared during the course of a research project."
 
-- "[...] analysis of the workflow from the generation of the data to their use.“^1^
-
-^[1] J. Ludwig, H. Enke (Hrsg.) Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013.^
+<small>https://www.nnlm.gov/resources/data/data-glossary/data-management-plan</small>
 
 
 ## Components of a DMP
 
-Administrative data
-Data Description
-Data documentation & quality control
-Storage & Backup
-Legal aspects
-Data publication
-Responsibilities & Ressources
-
+- Administrative data
+- Data Description
+- Data documentation & quality control
+- Storage & Backup
+- Legal aspects
+- Data publication
+- Responsibilities & Ressources
 
 Length can vary from a few paragraphs to several pages!
 
 
 **********
 
->- Administrative data
+<span style="color:#F363F8">Administrative data</span>
 
   - Basic data
     - Project title
@@ -265,7 +263,7 @@ Length can vary from a few paragraphs to several pages!
 
 **********
 
->- Data Description
+<span style="color:#F363F8">Data Description</span>
 
   - Type of research data
 
@@ -278,7 +276,7 @@ Length can vary from a few paragraphs to several pages!
 
 **********
 
->- Data documentation & quality control
+<span style="color:#F363F8">Data documentation & quality control</span>
 
   - folder and file naming conventions
   - versioning
@@ -289,7 +287,7 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
->- Storage & Backup
+<span style="color:#F363F8">Storage & Backup</span>
 
   - storage and data sharing during the project
   - backup strategy
@@ -298,7 +296,7 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
->- Legal aspects
+<span style="color:#F363F8">Legal aspects</span>
 
   - Data protection
   - Copyright and rights of use
@@ -306,7 +304,7 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
->- Data publication
+<span style="color:#F363F8">Data publication</span>
 
   - selection of datasets
   - name of the (domain-specific) repository
@@ -317,7 +315,7 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
->- Responsibilities & Ressources
+<span style="color:#F363F8">Responsibilities & Ressources</span>
 
   - Who is responsible for RDM?
 
@@ -327,17 +325,12 @@ Length can vary from a few paragraphs to several pages!
     - data curation
 
   - What does RDM cost?
-    Budget at least 5% for RDM costs!
+    - Budget at least 5% for RDM costs!
 
 
-## How? Templates & Tools
+## Templates & Tools
 
-### DMP templates
-
-> **So, how to start...? Use templates!**
-
-**********
-**Templates**
+<span style="color:#F363F8">Templates</span>
 
 * [DFG Checklist (for section 2.4 of the proposal)](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_en.pdf)
 
@@ -346,10 +339,7 @@ Length can vary from a few paragraphs to several pages!
 * [Science Europe Template](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/)
 
 
-### DMP tools
-
-
-**Generic DMP-Tools**
+<span style="color:#F363F8">DMP Tools</span>
 
 [Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
 
@@ -358,7 +348,8 @@ Length can vary from a few paragraphs to several pages!
 [DMP Tool - California Digital Library](https://dmptool.org/)
 
 
-### Common mistakes in DMP writing
+
+## Common mistakes in DMP writing
 
 * lack of accuracy
 
@@ -369,9 +360,9 @@ Length can vary from a few paragraphs to several pages!
 * lack of resource calculation
 
 
-### DMP checklist
+## DMP checklist
 
-1. Determine the Research Funder Requirements
+1. Determine the Research Sponsor Requirements
 
 2. Identify the Data to Be Collected
 
@@ -391,14 +382,54 @@ Length can vary from a few paragraphs to several pages!
 
 10. Prepare a Realistic Budget
 
-Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
-https://doi.org/10.1371/journal.pcbi.1004525 
+<small>Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
+https://doi.org/10.1371/journal.pcbi.1004525</small>
+
+
+# Benefits of Research Data Management
+
+- a structured process --> more time for the "real" research
+
+- good data organisation
+
+- easy access to your reseach process
+
+- minimizing data loss
+
+- makes it easier to publish data 
+  --> reuse of your own data in a follow up project
+  --> more visibility
+  --> increasing reputation
+
+- compliance with good scientific practice
+
+- compliance with rules of funders
+
+- compliance with GDPR
+
+
+## RDM in a nutshell
+
+- Systematic file and folder naming and hierarchy
+
+- document changes
+
+- think about metadata necessary to understand your data
+
+- use Open Document Format (ODF)
+
+- __Generic and open standard file formats__ last longer than proprietary file formats
+
+- Desktop and laptop for work on current research data only
+
+- [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
+
 
 
 ## Questions
 
->**Nearly done!**
->![image](images/FragezeichenTyp.jpg) <!--
+><span style="color:#F363F8">Nearly done!</span>
+>![image](./media/FragezeichenTyp.png) <!--
 style="width: 10%; max-width: 800px; float:right"
 title="puzzle"
 onclick="alert('Questions?');"
@@ -406,9 +437,12 @@ onclick="alert('Questions?');"
 >
 >Time for questions!
 
+## Acknowledgement
 
+If not stated otherwise, all graphics and illustrations are from Cleo Michelsen
 
 ## Thank you! :-)
 
 Please take care of your data! 🌼
 ---
+
