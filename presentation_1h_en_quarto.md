@@ -478,7 +478,19 @@ onclick="alert('Questions?');"
 
 ## Acknowledgement
 
-If not stated otherwise, all graphics and illustrations are from Cleo Michelsen
+If not stated otherwise, all graphics and illustrations are designed by Cleo Michelsen
+
+Part of this workshop material is based on 
+
+<div style="width: 20%; float:right">
+![crrdmlogo](./media/c3rdm.png)
+</div>
+
+Schenk, Jasmin & Mühlichen Andreas: „How to write a data management plan?“
+[Cologne Competence Center for Research Data Management (C3RDM)](https://fdm.uni-koeln.de/home)
+Universität zu Köln
+
+Thanks a lot for sharing! 🥰
 
 ## Thank you! :-)
 
