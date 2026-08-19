@@ -55,6 +55,7 @@ Let us first watch a short video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc
 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+{{1}}
 ****************
 
 
@@ -64,9 +65,9 @@ Let us first watch a short video
 
 - Which parts of the video do you think refer to research data management?
 
+****************
 
-
-# What is Research Data Management?
+# Research Data Management
 
 ## Research Data
 
@@ -87,12 +88,8 @@ Let us first watch a short video
 | and annotations        | codebooks                |                              |
 +------------------------+--------------------------+------------------------------+ 
 
-
+{{1}}
 ****************
-
-
-What is research data?
----
 
 What is research data?
 
@@ -102,10 +99,14 @@ What is research data?
 
 ****************
 
+{{2}}
+****************
+
 > _‘The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific.’_
 >
 >[Uni Giessen](https://www.uni-giessen.de/ub/en/resteach/researchdata#anchor_what-is-research-data)
 
+****************
 
 ## Research Data Management
 
@@ -113,6 +114,7 @@ What is research data?
 >
 >[DCC Glossary](https://www.dcc.ac.uk/about/digital-curation/glossary#R)
 
+{{1}}
 ****************
 > ‘Research Data Management (RDM) is the methodical handling of the information produced or re-used during the course of academic research.’
 >
@@ -120,6 +122,8 @@ What is research data?
 
 ******************
 
+{{2}}
+****************
 Research Data Management concerns all aspects of the research process. From simple aspects like naming conventions for data and folder up to complex aspects like specific digital tools that are needed for the research process.
 
 ****************
@@ -132,7 +136,8 @@ Research Data Management concerns all aspects of the research process. From simp
 
 </center>
 
-************
+{{1}}
+****************
 **Planning**:
 
 * How do you plan to create data?
@@ -145,6 +150,8 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ************
 
+{{2}}
+****************
 **Collection and analysis**:
 
 * Which (digital) methods and tools (e.g. software) are required collect and safe the (raw) data?
@@ -157,6 +164,8 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ************
 
+{{3}}
+****************
 **Archiving & publication**:
 
 * What legal conditions need to be considered in regard of publishing your research data?
@@ -167,6 +176,8 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ************
 
+{{4}}
+****************
 **Re-use**:
 
 * Which data is particularly suitable for re-use?
@@ -175,13 +186,18 @@ Research Data Management concerns all aspects of the research process. From simp
 * Are there embargo periods?
 * When can the research data expected to be used by third parties?
 
-
+****************
 
 ## FAIR Data Principles
 
+{{0}}
+****************
+
 > An important goal of research data management is to keep data <span style="color:#F363F8">FAIR</span> in the <span style="color:#F363F8">long term</span> and <span style="color:#F363F8">independent of individuals</span>.
 
+****************
 
+{{1}}
 ****************
 
 <span style="color:#F363F8">FAIR Data Principles</span>
@@ -195,6 +211,7 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ♻️ <span style="color:#F363F8">R</span>eusable (use licences, have a data documentation)
 
+****************
 
 ## RDM checklist
 
@@ -228,11 +245,14 @@ Research Data Management concerns all aspects of the research process. From simp
 
 <small>https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction-data-management-plans</small>
 
+{{1}}
+****************
 
 "A Data Management Plan (DMP or DMSP) details how data will be collected, processed, analyzed, described, preserved, and shared during the course of a research project."
 
 <small>https://www.nnlm.gov/resources/data/data-glossary/data-management-plan</small>
 
+****************
 
 ## Components of a DMP
 
@@ -247,7 +267,8 @@ Research Data Management concerns all aspects of the research process. From simp
 Length can vary from a few paragraphs to several pages!
 
 
-**********
+{{1}}
+****************
 
 <span style="color:#F363F8">Administrative data</span>
 
@@ -263,6 +284,8 @@ Length can vary from a few paragraphs to several pages!
 
 **********
 
+{{2}}
+****************
 <span style="color:#F363F8">Data Description</span>
 
   - Type of research data
@@ -276,6 +299,9 @@ Length can vary from a few paragraphs to several pages!
 
 **********
 
+{{3}}
+****************
+
 <span style="color:#F363F8">Data documentation & quality control</span>
 
   - folder and file naming conventions
@@ -287,6 +313,8 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
+{{4}}
+****************
 <span style="color:#F363F8">Storage & Backup</span>
 
   - storage and data sharing during the project
@@ -296,6 +324,9 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
+{{5}}
+****************
+
 <span style="color:#F363F8">Legal aspects</span>
 
   - Data protection
@@ -304,6 +335,8 @@ Length can vary from a few paragraphs to several pages!
 
 *********
 
+{{6}}
+****************
 <span style="color:#F363F8">Data publication</span>
 
   - selection of datasets
@@ -314,6 +347,9 @@ Length can vary from a few paragraphs to several pages!
   - selection of usage licenses
 
 *********
+
+{{7}}
+****************
 
 <span style="color:#F363F8">Responsibilities & Ressources</span>
 
@@ -327,6 +363,7 @@ Length can vary from a few paragraphs to several pages!
   - What does RDM cost?
     - Budget at least 5% for RDM costs!
 
+****************
 
 ## Templates & Tools
 
@@ -338,6 +375,8 @@ Length can vary from a few paragraphs to several pages!
 
 * [Science Europe Template](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/)
 
+{{1}}
+****************
 
 <span style="color:#F363F8">DMP Tools</span>
 
@@ -347,7 +386,7 @@ Length can vary from a few paragraphs to several pages!
 
 [DMP Tool - California Digital Library](https://dmptool.org/)
 
-
+****************
 
 ## Common mistakes in DMP writing
 
