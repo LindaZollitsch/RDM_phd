@@ -19,14 +19,14 @@ format:
 
 # Agenda
 
+
 * Why is Research Data Management important?
 
-* Research Data Management
+* What is Research Data Management?
 
-* Data Management Plan
+* Components of a Data Management Plan
 
-* Benefits of Research Data Management
-
+* Benefits of RDM and DMP
 
 
 
@@ -58,7 +58,6 @@ Let us first watch a short video
 {{1}}
 ****************
 
-
 - What do you think about the video?
 
 - Has someone experienced similar things already?
@@ -67,40 +66,69 @@ Let us first watch a short video
 
 ****************
 
-# Research Data Management
+# What is Research Data Management?
+
+<div style="width:60%;">
+ <img src="./media/2022-03-03_Icon_Lehre.png" alt="targets">
+  <small><span style="text-align: right;"> </span></small>
+</div>
 
 ## Research Data
 
+
+::: {.callout-tip}
+## Research data are...
+
+"Any information you use in your research."
+
+<small>https://www.repository.cam.ac.uk/handle/1810/243750</small>
+:::
+
+{{1-2}}
 ****************
 
-+------------------------+--------------------------+------------------------------+
-| Text and               |  Audio and               |  Geographic information      |
-| spreadsheet documents  |  Video recordings        |  system (GIS) data           |
-+------------------------+--------------------------+------------------------------+
-| Transcripts            |  Pictures and figures    |  Topography data             |
-+------------------------+--------------------------+------------------------------+ 
-| Laboratory and         | Model, script and        | Samples and artifacts        |
-| field notebooks        | research software code   |                              |
-+------------------------+--------------------------+------------------------------+
-| Diaries                |  Sensor data             | Sequence data                |
-+------------------------+--------------------------+------------------------------+ 
-| Text corpora           | Questionnaires and       | Spectra                      |
-| and annotations        | codebooks                |                              |
-+------------------------+--------------------------+------------------------------+ 
+<span style="color:#F363F8">Examples for Research Data</span>
 
-{{1}}
-****************
-
-What is research data?
-
-> _‘Any information you use in your research.‘_
->
->[University of Camebridge PrePARe Project](https://www.repository.cam.ac.uk/handle/1810/243750)
+ <img src="./media/text.png" alt="examples of data">
+  <small><span style="text-align: center;"> </span></small>
 
 ****************
 
-{{2}}
+{{2-3}}
 ****************
+<span style="color:#F363F8">Examples for Research Data</span>
+
+ <img src="./media/dates.png" alt="examples of data">
+  <small><span style="text-align: center;"> </span></small>
+
+
+****************
+
+{{3-4}}
+****************
+<span style="color:#F363F8">Examples for Research Data</span>
+
+ <img src="./media/artefacts.png" alt="examples of data">
+  <small><span style="text-align: center;"> </span></small>
+
+****************
+
+{{4}}
+****************
+
+<span style="color:#F363F8">Definition of Research Data</span>
+
+
+::: {.callout-tip}
+## Definition
+
+"The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific."
+
+<small>https://www.uni-giessen.de/ub/en/resteach/researchdata#anchor_what-is-research-data</small>
+:::
+
+
+
 
 > _‘The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific.’_
 >
@@ -110,17 +138,16 @@ What is research data?
 
 ## Research Data Management
 
-> ‘Research data management is an explicit process covering the creation and stewardship of research materials to enable their use for as long as they retain value.’
->
->[DCC Glossary](https://www.dcc.ac.uk/about/digital-curation/glossary#R)
 
-{{1}}
-****************
-> ‘Research Data Management (RDM) is the methodical handling of the information produced or re-used during the course of academic research.’
->
->[University of Edinburgh Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/research-data-management)
+::: {.callout-tip}
+## Definition 
 
-******************
+"Research data management is an explicit process covering the creation and stewardship of research materials to enable their use for as long as they retain value."
+
+<small>https://www.dcc.ac.uk/about/digital-curation/glossary#R</small>
+:::
+
+
 
 {{2}}
 ****************
@@ -128,7 +155,7 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ****************
 
-## Research data lifecycle
+## Data in the Research Process
 
 <center>
 
@@ -136,55 +163,68 @@ Research Data Management concerns all aspects of the research process. From simp
 
 </center>
 
+
+## Components of the Research Data Lifecycle
+
+
 {{1}}
 ****************
-**Planning**:
+<span style="color:#F363F8">Planning:</span>
 
-* How do you plan to create data?
-* Will data be reused? How is the data available?
-* Which data types, in terms of data formats (e.g. image data, text data or measurement data in tables) are created?
-* What volume of data can be expected?
-* What legal and ethical aspects need to be taken into account?
-* Who is responsible (for what)?
-* Which analyses are planned? What requirements must the data meet in order to be analysed as planned? What kind of software environment will you need?
+In the planning phase, think about the following:
+
+- Responsibilities in research process 
+- Legal and ethical aspects
+- Regarding your data:
+  - Creating new data
+  - Reuse of data and data availability
+  - Data formats
+  - Volume of data
+  - Necessary software or requirements for analysing
+
 
 ************
 
 {{2}}
 ****************
-**Collection and analysis**:
+<span style="color:#F363F8">Collection and analysis:</span>
 
-* Which (digital) methods and tools (e.g. software) are required collect and safe the (raw) data?
-* What measures are taken to ensure high quality of the data?
-* What approaches are taken to document all your work in a comprehensible manner?
-* Which digital methods and tools (e.g. software) are required to read, use and analyse the data?
-* How and where will the data be stored during the project?
-* What is your back up strategy?
-* How will the security of sensitive data be guaranteed during the project (access and usage management)?
+In the collection and analysis phase, think about the following:
+
+- Methods and tools to collect and save the (raw) data
+- Documentation of research process
+- Methods and tools to read, use, and analyse the data
+- Storage of the data during the project
+- Back up strategy
+- Securing sensitive data during the project
+
 
 ************
 
 {{3}}
 ****************
-**Archiving & publication**:
 
-* What legal conditions need to be considered in regard of publishing your research data?
-* What ethical conditions need to be considered in regard of publishing your research data?
-* Are there any effects or restrictions to be expected with regard to publication or accessibility of the data?
-* How are usage and copyright aspects as well as ownership issues taken into account?
-* Are there any important scientific codes or professional standards that should be taken into account?
+<span style="color:#F363F8">Archiving & publication:</span>
+
+In the archiving and publication phase, think about the following:
+
+- Legal and ethical conditions in regard of publishing the research data
+- Restrictions regarding publication or accessibility
+- Usage, copyright or ownership issues
+- Scientific codes and professional standards
 
 ************
 
 {{4}}
 ****************
-**Re-use**:
+<span style="color:#F363F8">Reuse:</span>
 
-* Which data is particularly suitable for re-use?
-* What criteria are used to select research data in order to make it available for re-use by others?
-* Do you plan to archive your data in a suitable infrastructure?
-* Are there embargo periods?
-* When can the research data expected to be used by third parties?
+In the reusing phase, think about the following:
+
+- Suitability of data for reuse
+- Archiving data in a suitable infrastructure
+- Embargo periods
+
 
 ****************
 
@@ -235,6 +275,7 @@ Research Data Management concerns all aspects of the research process. From simp
 
 10. Continuous self-monitoring
 
+
 <small>Hassenstein, M. J., & Jung, K. (2025). Ten simple rules for effective research data management. PLoS computational biology, 21(12), e1013779. https://doi.org/10.1371/journal.pcbi.1013779</small>
 
 
@@ -245,14 +286,16 @@ Research Data Management concerns all aspects of the research process. From simp
 
 <small>https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction-data-management-plans</small>
 
-{{1}}
-****************
 
-"A Data Management Plan (DMP or DMSP) details how data will be collected, processed, analyzed, described, preserved, and shared during the course of a research project."
 
-<small>https://www.nnlm.gov/resources/data/data-glossary/data-management-plan</small>
+::: {.callout-tip}
+## Definition 
 
-****************
+"The Data Management Plan is a living summary document that provides assistance with organising and planning all the phases in the lifecycle of data. It explains, for each dataset, how project data will be managed, from creation or collection to sharing and archiving."
+
+<small>https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction-data-management-plans</small>
+:::
+
 
 ## Components of a DMP
 
@@ -277,8 +320,7 @@ Length can vary from a few paragraphs to several pages!
     - data originator
     - other contributors
     - contact
-    - funding organisation
-    - grant number
+    - funding organisation, grant number
   
   - Relevant guidelines and policies 
 
@@ -427,24 +469,32 @@ https://doi.org/10.1371/journal.pcbi.1004525</small>
 
 # Benefits of Research Data Management
 
-- a structured process --> more time for the "real" research
+{{1}}
+****************
 
-- good data organisation
+- a structured process ➡️ more time for the "real" research
 
-- easy access to your reseach process
+- good data documentation ➡️ easy access to your reseach process
 
 - minimizing data loss
 
-- makes it easier to publish data 
-  --> reuse of your own data in a follow up project
-  --> more visibility
-  --> increasing reputation
+- makes it easier to publish data ➡️
+  - reuse of your own data in a follow up project
+  - more visibility
+  - increasing reputation
+
+****************
+
+{{2}}
+****************
 
 - compliance with good scientific practice
 
 - compliance with rules of funders
 
 - compliance with GDPR
+
+****************
 
 
 ## RDM in a nutshell
@@ -480,15 +530,18 @@ onclick="alert('Questions?');"
 
 If not stated otherwise, all graphics and illustrations are designed by Cleo Michelsen
 
-Part of this workshop material is based on 
+**
 
+Some parts of this workshop material is based on:
 <div style="width: 20%; float:right">
-![crrdmlogo](./media/c3rdm.png)
+![crrdmlogo](./images/)
 </div>
 
 Schenk, Jasmin & Mühlichen Andreas: „How to write a data management plan?“
 [Cologne Competence Center for Research Data Management (C3RDM)](https://fdm.uni-koeln.de/home)
 Universität zu Köln
+
+**
 
 Thanks a lot for sharing! 🥰
 
