@@ -75,14 +75,15 @@ Let us first watch a short video
 
 ## Research Data
 
-
-::: {.callout-tip}
-## Research data are...
+{{0-1}}
+****************
+... are...
 
 "Any information you use in your research."
 
 <small>https://www.repository.cam.ac.uk/handle/1810/243750</small>
-:::
+
+****************
 
 {{1-2}}
 ****************
@@ -118,36 +119,25 @@ Let us first watch a short video
 
 <span style="color:#F363F8">Definition of Research Data</span>
 
-
-::: {.callout-tip}
-## Definition
-
 "The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific."
 
 <small>https://www.uni-giessen.de/ub/en/resteach/researchdata#anchor_what-is-research-data</small>
-:::
 
-
-
-
-> _‘The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific.’_
->
->[Uni Giessen](https://www.uni-giessen.de/ub/en/resteach/researchdata#anchor_what-is-research-data)
 
 ****************
 
 ## Research Data Management
 
 
-::: {.callout-tip}
-## Definition 
+{{1}}
+****************
+**Definition RDM**
 
 "Research data management is an explicit process covering the creation and stewardship of research materials to enable their use for as long as they retain value."
 
 <small>https://www.dcc.ac.uk/about/digital-curation/glossary#R</small>
-:::
 
-
+****************
 
 {{2}}
 ****************
@@ -279,23 +269,17 @@ In the reusing phase, think about the following:
 <small>Hassenstein, M. J., & Jung, K. (2025). Ten simple rules for effective research data management. PLoS computational biology, 21(12), e1013779. https://doi.org/10.1371/journal.pcbi.1013779</small>
 
 
-
 # Data Management Plan
 
-"The Data Management Plan is a living summary document that provides assistance with organising and planning all the phases in the lifecycle of data. It explains, for each dataset, how project data will be managed, from creation or collection to sharing and archiving."
-
-<small>https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction-data-management-plans</small>
-
-
-
-::: {.callout-tip}
-## Definition 
+{{1}}
+****************
+**Definition**
 
 "The Data Management Plan is a living summary document that provides assistance with organising and planning all the phases in the lifecycle of data. It explains, for each dataset, how project data will be managed, from creation or collection to sharing and archiving."
 
 <small>https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction-data-management-plans</small>
-:::
 
+****************
 
 ## Components of a DMP
 
@@ -307,7 +291,7 @@ In the reusing phase, think about the following:
 - Data publication
 - Responsibilities & Ressources
 
-Length can vary from a few paragraphs to several pages!
+**Length can vary from a few paragraphs to several pages!**
 
 
 {{1}}
@@ -409,6 +393,8 @@ Length can vary from a few paragraphs to several pages!
 
 ## Templates & Tools
 
+{{1}}
+****************
 <span style="color:#F363F8">Templates</span>
 
 * [DFG Checklist (for section 2.4 of the proposal)](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_en.pdf)
@@ -417,7 +403,10 @@ Length can vary from a few paragraphs to several pages!
 
 * [Science Europe Template](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/)
 
-{{1}}
+
+****************
+
+{{2}}
 ****************
 
 <span style="color:#F363F8">DMP Tools</span>
@@ -471,6 +460,7 @@ https://doi.org/10.1371/journal.pcbi.1004525</small>
 
 {{1}}
 ****************
+... from the Researchers perspective
 
 - a structured process ➡️ more time for the "real" research
 
@@ -487,6 +477,7 @@ https://doi.org/10.1371/journal.pcbi.1004525</small>
 
 {{2}}
 ****************
+... from the structural perspective
 
 - compliance with good scientific practice
 
