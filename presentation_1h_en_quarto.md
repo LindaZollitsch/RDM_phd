@@ -176,7 +176,7 @@ In the planning phase, think about the following:
   - Necessary software or requirements for analysing
 
 
-#### Collection and analysis:
+#### Collection and Analysis:
 
 In the collection and analysis phase, think about the following:
 
@@ -188,7 +188,7 @@ In the collection and analysis phase, think about the following:
 - Securing sensitive data during the project
 
 
-#### Archiving & publication:
+#### Archiving & Publication:
 
 In the archiving and publication phase, think about the following:
 
@@ -266,7 +266,6 @@ Hassenstein, M. J., & Jung, K. (2025). Ten simple rules for effective research d
 
 https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction-data-management-plans
 
-****************
 
 ## Components of a DMP
 
