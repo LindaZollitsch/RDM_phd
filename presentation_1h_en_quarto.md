@@ -221,13 +221,13 @@ In the reusing phase, think about the following:
 **FAIR Data Principles**
 
 
-🔍 <span style="color:#550A35">F</span>indable (use persistent identifier (PIDs) like DOI, ORCiD, ROR...)
+🔍 <span style="color:#9B0A7D">F</span>indable (use persistent identifier (PIDs) like DOI, ORCiD, ROR...)
 
-🔐 <span style="color:#550A35">A</span>ccessible (make Metadata available, describe how to get access)
+🔐 <span style="color:#9B0A7D">A</span>ccessible (make Metadata available, describe how to get access)
 
-🔗 <span style="color:#550A35">I</span>nteroperable (use Standards and open formats like csv, svg, jpg)
+🔗 <span style="color:#9B0A7D">I</span>nteroperable (use Standards and open formats like csv, svg, jpg)
 
-♻️ <span style="color:#550A35">R</span>eusable (use licences, have a data documentation)
+♻️ <span style="color:#9B0A7D">R</span>eusable (use licences, have a data documentation)
 
 ****************
 
