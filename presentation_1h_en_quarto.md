@@ -1,23 +1,23 @@
----
-title: "Why RDM matters for every researcher"
-subtitle: "Research Data Mangement and Data Management Plan"
-author: "Linda Zollitsch"
-date: "2026-09-15"
-format:
-  revealjs:
-    theme: dark
-    smaller: true
-    footer: "Linda Zollitsch | Zentrales Forschungsdatenmanagement | 2026-09-15."
-    slide-number: c/t
-    show-slide-number: all
-    logo: media/cau-norm-de-lilagrey-rgb-0720.png
-    title-slide-attributes:
-      data-background-image: "media/cau-bcu2020.jpg"
-      data-background-size: cover
-      data-background-opacity: "0.5" # Macht das Bild transparenter, damit Text lesbar bleibt
----
+<!--
 
-# Agenda
+author:   Linda Zollitsch
+email:    zollitsch@ub.uni-kiel.de
+version:  0.1.0
+language: en
+narrator: UK English Female
+
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+
+date: 2026-09-16
+link: 
+
+comment:   Why RDM matters, research data management and data management plan basics
+
+-->
+
+# Why RDM matters
+
+## Agenda
 
 
 * Why is Research Data Management important?
@@ -30,7 +30,7 @@ format:
 
 
 
-# Goals
+## Goals
 
 
 <div style="float:right; width:30%;">
