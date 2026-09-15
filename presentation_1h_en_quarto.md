@@ -35,7 +35,7 @@ comment:   Why RDM matters, research data management and data management plan ba
 
 <div style="float:right; width:30%;">
  <img src="./images/2022-09-27_Zielscheibe.png" alt="targets">
-  <small><span style="text-align: right;"></span></small>
+  <span style="text-align: right;"></span>
 </div>
 
 At the end of the workshop you…
@@ -70,7 +70,7 @@ Let us first watch a short video
 
 <div style="width:60%;">
  <img src="./images/2022-03-03_Icon_Lehre.png">
-  <small><span style="text-align: right;"> </span></small>
+  <span style="text-align: right;"> </span>
 </div>
 
 ## Research Data
@@ -91,7 +91,7 @@ Let us first watch a short video
 <span style="color:#F363F8">Examples for Research Data</span>
 
  <img src="./images/text.png" alt="examples of data">
-  <small><span style="text-align: center;"> </span></small>
+  <span style="text-align: center;"> </span>
 
 ****************
 
@@ -100,7 +100,7 @@ Let us first watch a short video
 <span style="color:#F363F8">Examples for Research Data</span>
 
  <img src="./images/dates.png" alt="examples of data">
-  <small><span style="text-align: center;"> </span></small>
+  <span style="text-align: center;"> </span>
 
 
 ****************
@@ -110,7 +110,7 @@ Let us first watch a short video
 <span style="color:#F363F8">Examples for Research Data</span>
 
  <img src="./images/artefacts.png" alt="examples of data">
-  <small><span style="text-align: center;"> </span></small>
+  <span style="text-align: center;"> </span>
 
 ****************
 
