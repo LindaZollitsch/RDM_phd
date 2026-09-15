@@ -463,24 +463,23 @@ https://doi.org/10.1371/journal.pcbi.1004525
 - [Creative Commons](https://creativecommons.org/): data with a necessary creation height; ideally CC0 or CC BY
 
 
-
 ## Questions
 
 >Nearly done!
 >
->![image](./images/FragezeichenTyp.jpg) <!--
+>Time for questions!
+
+![image](./images/FragezeichenTyp.jpg) <!--
 style="width: 10%; max-width: 800px; float:right"
 title="puzzle"
 onclick="alert('Questions?');"
 -->
->
->Time for questions!
 
 ## Acknowledgement
 
 If not stated otherwise, all graphics and illustrations are designed by Cleo Michelsen
 
-**
+---
 
 Some parts of this workshop material is based on:
 <div style="width: 20%; float:right">
@@ -491,11 +490,9 @@ Schenk, Jasmin & Mühlichen Andreas: „How to write a data management plan?“
 [Cologne Competence Center for Research Data Management (C3RDM)](https://fdm.uni-koeln.de/home)
 Universität zu Köln
 
-**
+---
 
 Thanks a lot for sharing! 🥰
-
-## Thank you! :-)
 
 Please take care of your data! 🌼
 ---
