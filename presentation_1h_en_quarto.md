@@ -6,7 +6,7 @@ version:  0.1.0
 language: en
 narrator: UK English Female
 
-icon:     ./images/logo.png
+icon:     ../images/logo.png
 
 date: 2026-09-16
 link: 
