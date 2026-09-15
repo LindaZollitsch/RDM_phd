@@ -21,6 +21,10 @@ comment:   Why RDM matters, research data management and data management plan ba
 
 ![image](./images/FDM_Zyklus_klein_ohneText.jpg)
 
+Linda Zollitsch | Central Research Data Management at Kiel University
+
+2026-09-16
+
 ## Agenda
 
 
