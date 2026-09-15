@@ -11,7 +11,7 @@ logo: ./images/logo.png
 icon:     ./images/logo.png
 
 date: 2026-09-16
-link: 
+link: /style_css.css
 
 comment:   Why RDM matters, research data management and data management plan basics
 
