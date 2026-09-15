@@ -6,7 +6,9 @@ version:  0.1.0
 language: en
 narrator: UK English Female
 
-icon:     ../images/logo.png
+logo: ./images/logo.png
+
+icon:     ./images/logo.png
 
 date: 2026-09-16
 link: 
@@ -16,6 +18,8 @@ comment:   Why RDM matters, research data management and data management plan ba
 -->
 
 # Why RDM matters
+
+![image](./images/FDM_Zyklus_klein_ohneText.jpg)
 
 ## Agenda
 
