@@ -81,14 +81,14 @@ Let us first watch a short video
 
 "Any information you use in your research."
 
-<small>https://www.repository.cam.ac.uk/handle/1810/243750</small>
+https://www.repository.cam.ac.uk/handle/1810/243750
 
 ****************
+
+### Examples of Research Data
 
 {{1-2}}
 ****************
-
-<span style="color:#F363F8">Examples for Research Data</span>
 
  <img src="./images/text.png" alt="examples of data">
   <span style="text-align: center;"> </span>
@@ -97,7 +97,6 @@ Let us first watch a short video
 
 {{2-3}}
 ****************
-<span style="color:#F363F8">Examples for Research Data</span>
 
  <img src="./images/dates.png" alt="examples of data">
   <span style="text-align: center;"> </span>
@@ -105,37 +104,35 @@ Let us first watch a short video
 
 ****************
 
-{{3-4}}
+{{3}}
 ****************
-<span style="color:#F363F8">Examples for Research Data</span>
 
  <img src="./images/artefacts.png" alt="examples of data">
   <span style="text-align: center;"> </span>
 
 ****************
 
-{{4}}
-****************
+### Definition of Research Data
 
-<span style="color:#F363F8">Definition of Research Data</span>
+************
 
-"The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific."
+>"The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific."
 
-<small>https://www.uni-giessen.de/ub/en/resteach/researchdata#anchor_what-is-research-data</small>
+https://www.uni-giessen.de/ub/en/resteach/researchdata#anchor_what-is-research-data
 
 
-****************
+
 
 ## Research Data Management
 
 
+### Definition RDM
+
 {{1}}
 ****************
-**Definition RDM**
+>"Research data management is an explicit process covering the creation and stewardship of research materials to enable their use for as long as they retain value."
 
-"Research data management is an explicit process covering the creation and stewardship of research materials to enable their use for as long as they retain value."
-
-<small>https://www.dcc.ac.uk/about/digital-curation/glossary#R</small>
+https://www.dcc.ac.uk/about/digital-curation/glossary#R
 
 ****************
 
@@ -145,7 +142,7 @@ Research Data Management concerns all aspects of the research process. From simp
 
 ****************
 
-## Data in the Research Process
+### Data in the Research Process
 
 <center>
 
@@ -154,7 +151,7 @@ Research Data Management concerns all aspects of the research process. From simp
 </center>
 
 
-## Components of the Research Data Lifecycle
+### Components of the Research Data Lifecycle
 
 
 {{1}}
