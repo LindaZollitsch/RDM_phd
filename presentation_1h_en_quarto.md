@@ -467,7 +467,7 @@ https://doi.org/10.1371/journal.pcbi.1004525
 ## Questions
 
 ><span style="color:#F363F8">Nearly done!</span>
->![image](./images/FragezeichenTyp.png) <!--
+>![image](./images/FragezeichenTyp.jpg) <!--
 style="width: 10%; max-width: 800px; float:right"
 title="puzzle"
 onclick="alert('Questions?');"
