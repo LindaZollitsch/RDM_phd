@@ -19,7 +19,7 @@ comment:   Why RDM matters, research data management and data management plan ba
 
 # Why RDM matters
 
-![image](./images/FDM_Zyklus_klein_ohneText.jpg)
+![image](./images/FDMZyklus_en.jpg)
 
 Linda Zollitsch | Central Research Data Management at Kiel University
 
@@ -154,7 +154,7 @@ Research Data Management concerns all aspects of the research process. From simp
 
 <center>
 
-![RD-Lifecycle](./images/FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
+![RD-Lifecycle](./images/FDMZyklus_en.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
 
 </center>
 
