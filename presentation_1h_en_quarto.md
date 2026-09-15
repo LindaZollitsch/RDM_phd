@@ -19,11 +19,11 @@ comment:   Why RDM matters, research data management and data management plan ba
 
 # Why RDM matters
 
-![image](./images/FDMZyklus_en.jpg)
-
 Linda Zollitsch | Central Research Data Management at Kiel University
 
-2026-09-16
+2026-09-16 
+
+![image](./images/FDMZyklus_en.jpg)
 
 ## Agenda
 
