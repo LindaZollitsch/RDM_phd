@@ -6,7 +6,7 @@ version:  0.1.0
 language: en
 narrator: UK English Female
 
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+icon:     ./images/logo.png
 
 date: 2026-09-16
 link: 
@@ -34,7 +34,7 @@ comment:   Why RDM matters, research data management and data management plan ba
 
 
 <div style="float:right; width:30%;">
- <img src="./media/2022-09-27_Zielscheibe.png" alt="targets">
+ <img src="./images/2022-09-27_Zielscheibe.png" alt="targets">
   <small><span style="text-align: right;"></span></small>
 </div>
 
@@ -69,7 +69,7 @@ Let us first watch a short video
 # What is Research Data Management?
 
 <div style="width:60%;">
- <img src="./media/2022-03-03_Icon_Lehre.png" alt="targets">
+ <img src="./images/2022-03-03_Icon_Lehre.png">
   <small><span style="text-align: right;"> </span></small>
 </div>
 
@@ -90,7 +90,7 @@ Let us first watch a short video
 
 <span style="color:#F363F8">Examples for Research Data</span>
 
- <img src="./media/text.png" alt="examples of data">
+ <img src="./images/text.png" alt="examples of data">
   <small><span style="text-align: center;"> </span></small>
 
 ****************
@@ -99,7 +99,7 @@ Let us first watch a short video
 ****************
 <span style="color:#F363F8">Examples for Research Data</span>
 
- <img src="./media/dates.png" alt="examples of data">
+ <img src="./images/dates.png" alt="examples of data">
   <small><span style="text-align: center;"> </span></small>
 
 
@@ -109,7 +109,7 @@ Let us first watch a short video
 ****************
 <span style="color:#F363F8">Examples for Research Data</span>
 
- <img src="./media/artefacts.png" alt="examples of data">
+ <img src="./images/artefacts.png" alt="examples of data">
   <small><span style="text-align: center;"> </span></small>
 
 ****************
@@ -149,7 +149,7 @@ Research Data Management concerns all aspects of the research process. From simp
 
 <center>
 
-![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
+![RD-Lifecycle](./images/FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
 
 </center>
 
@@ -509,7 +509,7 @@ https://doi.org/10.1371/journal.pcbi.1004525</small>
 ## Questions
 
 ><span style="color:#F363F8">Nearly done!</span>
->![image](./media/FragezeichenTyp.png) <!--
+>![image](./images/FragezeichenTyp.png) <!--
 style="width: 10%; max-width: 800px; float:right"
 title="puzzle"
 onclick="alert('Questions?');"
@@ -525,7 +525,7 @@ If not stated otherwise, all graphics and illustrations are designed by Cleo Mic
 
 Some parts of this workshop material is based on:
 <div style="width: 20%; float:right">
-![crrdmlogo](./images/)
+![crrdmlogo](./images/c3rdm.png)
 </div>
 
 Schenk, Jasmin & Mühlichen Andreas: „How to write a data management plan?“
