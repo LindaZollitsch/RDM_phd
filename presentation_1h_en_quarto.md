@@ -55,6 +55,8 @@ Let us first watch a short video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc
 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+(https://www.youtube.com/watch?v=66oNv_DJuPc)
+
 {{1}}
 ****************
 
@@ -114,13 +116,11 @@ https://www.repository.cam.ac.uk/handle/1810/243750
 
 ### Definition of Research Data
 
-************
+---
 
 >"The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific."
 
 https://www.uni-giessen.de/ub/en/resteach/researchdata#anchor_what-is-research-data
-
-
 
 
 ## Research Data Management
@@ -154,9 +154,7 @@ Research Data Management concerns all aspects of the research process. From simp
 ### Components of the Research Data Lifecycle
 
 
-{{1}}
-****************
-<span style="color:#F363F8">Planning:</span>
+#### Planning:
 
 In the planning phase, think about the following:
 
@@ -170,11 +168,7 @@ In the planning phase, think about the following:
   - Necessary software or requirements for analysing
 
 
-************
-
-{{2}}
-****************
-<span style="color:#F363F8">Collection and analysis:</span>
+#### Collection and analysis:
 
 In the collection and analysis phase, think about the following:
 
@@ -186,12 +180,7 @@ In the collection and analysis phase, think about the following:
 - Securing sensitive data during the project
 
 
-************
-
-{{3}}
-****************
-
-<span style="color:#F363F8">Archiving & publication:</span>
+#### Archiving & publication:
 
 In the archiving and publication phase, think about the following:
 
@@ -200,11 +189,7 @@ In the archiving and publication phase, think about the following:
 - Usage, copyright or ownership issues
 - Scientific codes and professional standards
 
-************
-
-{{4}}
-****************
-<span style="color:#F363F8">Reuse:</span>
+#### Reuse:
 
 In the reusing phase, think about the following:
 
@@ -213,21 +198,19 @@ In the reusing phase, think about the following:
 - Embargo periods
 
 
-****************
-
 ## FAIR Data Principles
 
 {{0}}
 ****************
 
-> An important goal of research data management is to keep data <span style="color:#F363F8">FAIR</span> in the <span style="color:#F363F8">long term</span> and <span style="color:#F363F8">independent of individuals</span>.
+> An important goal of research data management is to keep data **FAIR**>FAIR in the **long term** and **independent of individuals**.
 
 ****************
 
 {{1}}
 ****************
 
-<span style="color:#F363F8">FAIR Data Principles</span>
+**FAIR Data Principles**
 
 
 🔍 <span style="color:#F363F8">F</span>indable (use persistent identifier (PIDs) like DOI, ORCiD, ROR...)
@@ -263,18 +246,17 @@ In the reusing phase, think about the following:
 10. Continuous self-monitoring
 
 
-<small>Hassenstein, M. J., & Jung, K. (2025). Ten simple rules for effective research data management. PLoS computational biology, 21(12), e1013779. https://doi.org/10.1371/journal.pcbi.1013779</small>
+Hassenstein, M. J., & Jung, K. (2025). Ten simple rules for effective research data management. PLoS computational biology, 21(12), e1013779. https://doi.org/10.1371/journal.pcbi.1013779
 
 
 # Data Management Plan
 
-{{1}}
-****************
-**Definition**
+
+## Definition of DMP
 
 "The Data Management Plan is a living summary document that provides assistance with organising and planning all the phases in the lifecycle of data. It explains, for each dataset, how project data will be managed, from creation or collection to sharing and archiving."
 
-<small>https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction-data-management-plans</small>
+https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction-data-management-plans
 
 ****************
 
@@ -291,10 +273,7 @@ In the reusing phase, think about the following:
 **Length can vary from a few paragraphs to several pages!**
 
 
-{{1}}
-****************
-
-<span style="color:#F363F8">Administrative data</span>
+### Administrative data
 
   - Basic data
     - Project title
@@ -305,11 +284,8 @@ In the reusing phase, think about the following:
   
   - Relevant guidelines and policies 
 
-**********
 
-{{2}}
-****************
-<span style="color:#F363F8">Data Description</span>
+### Data Description
 
   - Type of research data
 
@@ -320,12 +296,7 @@ In the reusing phase, think about the following:
     - amount of data to be expected
     - size of the largest individual file
 
-**********
-
-{{3}}
-****************
-
-<span style="color:#F363F8">Data documentation & quality control</span>
+### Data documentation & quality control
 
   - folder and file naming conventions
   - versioning
@@ -334,33 +305,20 @@ In the reusing phase, think about the following:
   - supporting documentation
   - virtual research environments / databases / ELAB journals
 
-*********
-
-{{4}}
-****************
-<span style="color:#F363F8">Storage & Backup</span>
+### Storage & Backup
 
   - storage and data sharing during the project
   - backup strategy
   - access control according to protection requirements (e.g. GDPR)
   - long-term storage according to GRP
 
-*********
-
-{{5}}
-****************
-
-<span style="color:#F363F8">Legal aspects</span>
+### Legal aspects
 
   - Data protection
   - Copyright and rights of use
   - Licensing law, patent law, etc.
 
-*********
-
-{{6}}
-****************
-<span style="color:#F363F8">Data publication</span>
+### Data publication
 
   - selection of datasets
   - name of the (domain-specific) repository
@@ -369,12 +327,7 @@ In the reusing phase, think about the following:
   - reason for restrictions
   - selection of usage licenses
 
-*********
-
-{{7}}
-****************
-
-<span style="color:#F363F8">Responsibilities & Ressources</span>
+### Responsibilities & Ressources
 
   - Who is responsible for RDM?
 
@@ -386,13 +339,14 @@ In the reusing phase, think about the following:
   - What does RDM cost?
     - Budget at least 5% for RDM costs!
 
-****************
+
 
 ## Templates & Tools
 
 {{1}}
 ****************
-<span style="color:#F363F8">Templates</span>
+
+**Templates**
 
 * [DFG Checklist (for section 2.4 of the proposal)](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_en.pdf)
 
@@ -406,7 +360,7 @@ In the reusing phase, think about the following:
 {{2}}
 ****************
 
-<span style="color:#F363F8">DMP Tools</span>
+**DMP Tools**
 
 [Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
 
@@ -449,8 +403,8 @@ In the reusing phase, think about the following:
 
 10. Prepare a Realistic Budget
 
-<small>Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
-https://doi.org/10.1371/journal.pcbi.1004525</small>
+Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
+https://doi.org/10.1371/journal.pcbi.1004525
 
 
 # Benefits of Research Data Management
