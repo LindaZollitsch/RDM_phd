@@ -221,13 +221,13 @@ In the reusing phase, think about the following:
 **FAIR Data Principles**
 
 
-🔍 <span style="color:#F363F8">F</span>indable (use persistent identifier (PIDs) like DOI, ORCiD, ROR...)
+🔍 <span style="color:#550A35">F</span>indable (use persistent identifier (PIDs) like DOI, ORCiD, ROR...)
 
-🔐 <span style="color:#F363F8">A</span>ccessible (make Metadata available, describe how to get access)
+🔐 <span style="color:#550A35">A</span>ccessible (make Metadata available, describe how to get access)
 
-🔗 <span style="color:#F363F8">I</span>nteroperable (use Standards and open formats like csv, svg, jpg)
+🔗 <span style="color:#550A35">I</span>nteroperable (use Standards and open formats like csv, svg, jpg)
 
-♻️ <span style="color:#F363F8">R</span>eusable (use licences, have a data documentation)
+♻️ <span style="color:#550A35">R</span>eusable (use licences, have a data documentation)
 
 ****************
 
@@ -466,7 +466,7 @@ https://doi.org/10.1371/journal.pcbi.1004525
 
 ## Questions
 
-><span style="color:#F363F8">Nearly done!</span>
+>Nearly done!
 >![image](./images/FragezeichenTyp.jpg) <!--
 style="width: 10%; max-width: 800px; float:right"
 title="puzzle"
