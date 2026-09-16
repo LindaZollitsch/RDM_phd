@@ -317,7 +317,7 @@ https://www.universite-paris-saclay.fr/en/recherche/science-ouverte/introduction
   - storage and data sharing during the project
   - backup strategy
   - access control according to protection requirements (e.g. GDPR)
-  - long-term storage according to GRP
+  - long-term storage according to good research practice
 
 ### Legal aspects
 
